@@ -1,0 +1,5179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="customer.xsd" generated="2007-05-16T20:12:31">
+<Customer_Query>
+<Customer_ID>1</Customer_ID>
+<Customer_Credit_ID>1</Customer_Credit_ID>
+<Customer_Name>City Cyclists</Customer_Name>
+<Contact_First_Name>Chris</Contact_First_Name>
+<Contact_Last_Name>Christianson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>20045.2725</Last_Years_Sales>
+<Address1>7464 South Kingsway</Address1>
+<Address2>Suite 2006</Address2>
+<City>Sterling Heights</City>
+<Region>MI</Region>
+<Country>USA</Country>
+<Postal_Code>48358</Postal_Code>
+<E-mail>Christianson@bba.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>810-939-6479</Phone>
+<Fax>810-939-6602</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>2</Customer_ID>
+<Customer_Credit_ID>2</Customer_Credit_ID>
+<Customer_Name>Pathfinders</Customer_Name>
+<Contact_First_Name>Christine</Contact_First_Name>
+<Contact_Last_Name>Manley</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>26369.63</Last_Years_Sales>
+<Address1>410 Eighth Avenue</Address1>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60148</Postal_Code>
+<E-mail>Manley@arubasport.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-9831</Phone>
+<Fax>815-756-7536</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>3</Customer_ID>
+<Customer_Credit_ID>3</Customer_Credit_ID>
+<Customer_Name>Bike-A-Holics Anonymous</Customer_Name>
+<Contact_First_Name>Gary</Contact_First_Name>
+<Contact_Last_Name>Jannis</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>4500</Last_Years_Sales>
+<Address1>7429 Arbutus Boulevard</Address1>
+<Address2>Suite 2017</Address2>
+<City>Blacklick</City>
+<Region>OH</Region>
+<Country>USA</Country>
+<Postal_Code>43005</Postal_Code>
+<E-mail>Jannis@downunderbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>614-759-9924</Phone>
+<Fax>614-759-6343</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>4</Customer_ID>
+<Customer_Credit_ID>4</Customer_Credit_ID>
+<Customer_Name>Psycho-Cycle</Customer_Name>
+<Contact_First_Name>Alexander</Contact_First_Name>
+<Contact_Last_Name>Mast</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>52809.105</Last_Years_Sales>
+<Address1>8287 Scott Road</Address1>
+<City>Huntsville</City>
+<Region>AL</Region>
+<Country>USA</Country>
+<Postal_Code>35818</Postal_Code>
+<E-mail>Mast@canbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>205-430-0587</Phone>
+<Fax>205-430-7737</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>5</Customer_ID>
+<Customer_Credit_ID>5</Customer_Credit_ID>
+<Customer_Name>Sporting Wheels Inc.</Customer_Name>
+<Contact_First_Name>Patrick</Contact_First_Name>
+<Contact_Last_Name>Reyess</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>85642.56</Last_Years_Sales>
+<Address1>480 Grant Way</Address1>
+<Address2>Suite 1110</Address2>
+<City>San Diego</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>92150</Postal_Code>
+<E-mail>Reyess@kangerootrikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>619-457-3186</Phone>
+<Fax>619-457-9017</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>6</Customer_ID>
+<Customer_Credit_ID>6</Customer_Credit_ID>
+<Customer_Name>Rockshocks for Jocks</Customer_Name>
+<Contact_First_Name>Heather</Contact_First_Name>
+<Contact_Last_Name>Davis</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>40778.5225</Last_Years_Sales>
+<Address1>1984 Sydney Street</Address1>
+<City>Austin</City>
+<Region>TX</Region>
+<Country>USA</Country>
+<Postal_Code>78770</Postal_Code>
+<E-mail>Davis@brucebikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>512-349-7705</Phone>
+<Fax>512-349-4983</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>7</Customer_ID>
+<Customer_Credit_ID>7</Customer_Credit_ID>
+<Customer_Name>Poser Cycles</Customer_Name>
+<Contact_First_Name>Alex</Contact_First_Name>
+<Contact_Last_Name>Smith</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>10923</Last_Years_Sales>
+<Address1>8194 Peter Avenue</Address1>
+<City>Eden Prairie</City>
+<Region>MN</Region>
+<Country>USA</Country>
+<Postal_Code>55360</Postal_Code>
+<E-mail>Smith@peddlesofperth.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>612-947-4320</Phone>
+<Fax>612-947-9422</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>8</Customer_ID>
+<Customer_Credit_ID>8</Customer_Credit_ID>
+<Customer_Name>Spokes &apos;N Wheels Ltd.</Customer_Name>
+<Contact_First_Name>Kristina</Contact_First_Name>
+<Contact_Last_Name>Chester</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>25521.305</Last_Years_Sales>
+<Address1>3802 Georgia Court</Address1>
+<City>Des Moines</City>
+<Region>IA</Region>
+<Country>USA</Country>
+<Postal_Code>50305</Postal_Code>
+<E-mail>Chester@koalaroad.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>515-237-7769</Phone>
+<Fax>515-237-9671</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>9</Customer_ID>
+<Customer_Credit_ID>9</Customer_Credit_ID>
+<Customer_Name>Trail Blazer&apos;s Place</Customer_Name>
+<Contact_First_Name>Alexandra</Contact_First_Name>
+<Contact_Last_Name>Burris</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>123658.46</Last_Years_Sales>
+<Address1>6938 Beach Street</Address1>
+<City>Madison</City>
+<Region>WI</Region>
+<Country>USA</Country>
+<Postal_Code>53795</Postal_Code>
+<E-mail>Burris@devilbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>608-273-4883</Phone>
+<Fax>608-273-0423</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>10</Customer_ID>
+<Customer_Credit_ID>10</Customer_Credit_ID>
+<Customer_Name>Rowdy Rims Company</Customer_Name>
+<Contact_First_Name>Anthony</Contact_First_Name>
+<Contact_Last_Name>Shoemaker</Contact_Last_Name>
+<Contact_Title>Dr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>30131.455</Last_Years_Sales>
+<Address1>4861 Second Road</Address1>
+<City>Newbury Park</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>91341</Postal_Code>
+<E-mail>Shoemaker@piccolobike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>805-375-0117</Phone>
+<Fax>805-375-3533</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>11</Customer_ID>
+<Customer_Credit_ID>11</Customer_Credit_ID>
+<Customer_Name>Clean Air Transportation Co.</Customer_Name>
+<Contact_First_Name>Bill</Contact_First_Name>
+<Contact_Last_Name>Carter</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>23789.245</Last_Years_Sales>
+<Address1>1867 Thurlow Lane</Address1>
+<Address2>Suite 1304</Address2>
+<City>Conshohocken</City>
+<Region>PA</Region>
+<Country>USA</Country>
+<Postal_Code>19453</Postal_Code>
+<E-mail>Carter@BCS.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>610-941-5771</Phone>
+<Fax>610-941-0216</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>12</Customer_ID>
+<Customer_Credit_ID>12</Customer_Credit_ID>
+<Customer_Name>Hooked on Helmets</Customer_Name>
+<Contact_First_Name>Gerry</Contact_First_Name>
+<Contact_Last_Name>Wade</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>52963.8225</Last_Years_Sales>
+<Address1>7655 Mayberry Crescent</Address1>
+<Address2>Suite 209</Address2>
+<City>Eden Prairie</City>
+<Region>MN</Region>
+<Country>USA</Country>
+<Postal_Code>55327</Postal_Code>
+<E-mail>Wade@dhakabike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>612-947-3344</Phone>
+<Fax>612-947-6477</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>13</Customer_ID>
+<Customer_Credit_ID>13</Customer_Credit_ID>
+<Customer_Name>C-Gate Cycle Shoppe</Customer_Name>
+<Contact_First_Name>Matthew</Contact_First_Name>
+<Contact_Last_Name>Banks</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>29618.11</Last_Years_Sales>
+<Address1>413 Robson Lane</Address1>
+<Address2>Suite 1809</Address2>
+<City>Winchester</City>
+<Region>VA</Region>
+<Country>USA</Country>
+<Postal_Code>22618</Postal_Code>
+<E-mail>Banks@barbadossports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>540-662-7167</Phone>
+<Fax>540-662-2730</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>14</Customer_ID>
+<Customer_Credit_ID>14</Customer_Credit_ID>
+<Customer_Name>Alley Cat Cycles</Customer_Name>
+<Contact_First_Name>Rick</Contact_First_Name>
+<Contact_Last_Name>Pratt</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>298356.22</Last_Years_Sales>
+<Address1>1842 St. Anne Place</Address1>
+<Address2>Suite 618</Address2>
+<City>Concord</City>
+<Region>MA</Region>
+<Country>USA</Country>
+<Postal_Code>01733</Postal_Code>
+<E-mail>Pratt@belgiumbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>508-287-8535</Phone>
+<Fax>508-28-73694</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>15</Customer_ID>
+<Customer_Credit_ID>15</Customer_Credit_ID>
+<Customer_Name>The Bike Cellar</Customer_Name>
+<Contact_First_Name>Christopher</Contact_First_Name>
+<Contact_Last_Name>Carmine</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>30938.665</Last_Years_Sales>
+<Address1>8404 Nelson Lane</Address1>
+<Address2>Suite 2512</Address2>
+<City>Winchester</City>
+<Region>VA</Region>
+<Country>USA</Country>
+<Postal_Code>22616</Postal_Code>
+<E-mail>Carmine@royalcycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>540-662-2540</Phone>
+<Fax>540-662-1333</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>16</Customer_ID>
+<Customer_Credit_ID>16</Customer_Credit_ID>
+<Customer_Name>Hercules Mountain Bikes</Customer_Name>
+<Contact_First_Name>James</Contact_First_Name>
+<Contact_Last_Name>Sergent</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>18000</Last_Years_Sales>
+<Address1>8586 St. Andrew Crescent</Address1>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60187</Postal_Code>
+<E-mail>Sergent@biccm.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-1819</Phone>
+<Fax>815-756-7443</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>17</Customer_ID>
+<Customer_Credit_ID>17</Customer_Credit_ID>
+<Customer_Name>Whistler Rentals</Customer_Name>
+<Contact_First_Name>Will</Contact_First_Name>
+<Contact_Last_Name>Castillo</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>68000</Last_Years_Sales>
+<Address1>4501 Third Street</Address1>
+<Address2>Suite 913</Address2>
+<City>Tualatin</City>
+<Region>OR</Region>
+<Country>USA</Country>
+<Postal_Code>97051</Postal_Code>
+<E-mail>Castillo@brasiliaoutdoors.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>503-647-3363</Phone>
+<Fax>503-647-5593</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>18</Customer_ID>
+<Customer_Credit_ID>18</Customer_Credit_ID>
+<Customer_Name>Bikes and Trikes</Customer_Name>
+<Contact_First_Name>Ian</Contact_First_Name>
+<Contact_Last_Name>Kelly</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>12000</Last_Years_Sales>
+<Address1>2793 Highland Boulevard</Address1>
+<City>Sterling Heights</City>
+<Region>MI</Region>
+<Country>USA</Country>
+<Postal_Code>48335</Postal_Code>
+<E-mail>Kelly@rdjbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>810-939-2133</Phone>
+<Fax>810-939-9564</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>19</Customer_ID>
+<Customer_Credit_ID>19</Customer_Credit_ID>
+<Customer_Name>Changing Gears</Customer_Name>
+<Contact_First_Name>David</Contact_First_Name>
+<Contact_Last_Name>Baker</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>26705.65</Last_Years_Sales>
+<Address1>1600 Hyde Crescent</Address1>
+<City>Irvine</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>92750</Postal_Code>
+<E-mail>Baker@saveirosbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>714-450-7009</Phone>
+<Fax>714-450-4103</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>20</Customer_ID>
+<Customer_Credit_ID>20</Customer_Credit_ID>
+<Customer_Name>Wheels and Stuff</Customer_Name>
+<Contact_First_Name>Dan</Contact_First_Name>
+<Contact_Last_Name>Simpson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>25556.105</Last_Years_Sales>
+<Address1>2530 Bute Avenue</Address1>
+<City>Clearwater</City>
+<Region>FL</Region>
+<Country>USA</Country>
+<Postal_Code>34666</Postal_Code>
+<E-mail>Simpson@outdoors.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>813-539-9862</Phone>
+<Fax>813-539-1602</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>21</Customer_ID>
+<Customer_Credit_ID>21</Customer_Credit_ID>
+<Customer_Name>Uni-Cycle</Customer_Name>
+<Contact_First_Name>Daryl</Contact_First_Name>
+<Contact_Last_Name>Davidson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>52428.1325</Last_Years_Sales>
+<Address1>1008 Kerr Street</Address1>
+<City>Blacklick</City>
+<Region>OH</Region>
+<Country>USA</Country>
+<Postal_Code>43042</Postal_Code>
+<E-mail>Davidson@brasiliabike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>614-759-8634</Phone>
+<Fax>614-7592673</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>22</Customer_ID>
+<Customer_Credit_ID>22</Customer_Credit_ID>
+<Customer_Name>Crank Components</Customer_Name>
+<Contact_First_Name>Lori</Contact_First_Name>
+<Contact_Last_Name>McIsaac</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>8030.1075</Last_Years_Sales>
+<Address1>8001 Oxford Street</Address1>
+<City>Champaign</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>61870</Postal_Code>
+<E-mail>McIsaac@salvadobikestore.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>217-359-3547</Phone>
+<Fax>217-359-2074</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>23</Customer_ID>
+<Customer_Credit_ID>23</Customer_Credit_ID>
+<Customer_Name>Corporate Cycle</Customer_Name>
+<Contact_First_Name>Annie</Contact_First_Name>
+<Contact_Last_Name>Harper</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>27081.3125</Last_Years_Sales>
+<Address1>2922 Cambridge Way</Address1>
+<City>Des Moines</City>
+<Region>IA</Region>
+<Country>USA</Country>
+<Postal_Code>50392</Postal_Code>
+<E-mail>Harper@paradix.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>515-237-9995</Phone>
+<Fax>515-237-0325</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>24</Customer_ID>
+<Customer_Credit_ID>24</Customer_Credit_ID>
+<Customer_Name>Pedal Pusher Bikes Inc.</Customer_Name>
+<Contact_First_Name>Tony</Contact_First_Name>
+<Contact_Last_Name>Garneau</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>39277.3825</Last_Years_Sales>
+<Address1>4537 Robson Way</Address1>
+<Address2>Suite 2829</Address2>
+<City>Port Coquitlam</City>
+<Region>BC</Region>
+<Country>Canada</Country>
+<Postal_Code>V3C 5U3</Postal_Code>
+<E-mail>Garneau@cyclefever.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>604-941-4617</Phone>
+<Fax>604-941-1657</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>25</Customer_ID>
+<Customer_Credit_ID>25</Customer_Credit_ID>
+<Customer_Name>Extreme Cycling</Customer_Name>
+<Contact_First_Name>Zach</Contact_First_Name>
+<Contact_Last_Name>Fabro</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>69819.1</Last_Years_Sales>
+<Address1>1925 Glenaire Avenue</Address1>
+<Address2>Suite 2705</Address2>
+<City>Clearwater</City>
+<Region>FL</Region>
+<Country>USA</Country>
+<Postal_Code>34638</Postal_Code>
+<E-mail>Fabro@dtom.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>813-539-4247</Phone>
+<Fax>813-539-5445</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>26</Customer_ID>
+<Customer_Credit_ID>26</Customer_Credit_ID>
+<Customer_Name>Blazing Saddles</Customer_Name>
+<Contact_First_Name>Trisha</Contact_First_Name>
+<Contact_Last_Name>Sanders</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>42709.86</Last_Years_Sales>
+<Address1>4755 Seventieth Street</Address1>
+<Address2>Suite 206</Address2>
+<City>Brown Deer</City>
+<Region>WI</Region>
+<Country>USA</Country>
+<Postal_Code>53226</Postal_Code>
+<E-mail>Sanders@dagcity.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>414-354-0524</Phone>
+<Fax>414-354-7009</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>27</Customer_ID>
+<Customer_Credit_ID>27</Customer_Credit_ID>
+<Customer_Name>The Great Bike Shop</Customer_Name>
+<Contact_First_Name>Jon</Contact_First_Name>
+<Contact_Last_Name>Witt</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>15218.0925</Last_Years_Sales>
+<Address1>1922 Beach Crescent</Address1>
+<Address2>Suite 914</Address2>
+<City>Huntsville</City>
+<Region>AL</Region>
+<Country>USA</Country>
+<Postal_Code>35857</Postal_Code>
+<E-mail>Witt@wnd.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>205-430-1083</Phone>
+<Fax>205-430-6075</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>28</Customer_ID>
+<Customer_Credit_ID>28</Customer_Credit_ID>
+<Customer_Name>Pedals Inc.</Customer_Name>
+<Contact_First_Name>Patricia</Contact_First_Name>
+<Contact_Last_Name>Manon</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>5000</Last_Years_Sales>
+<Address1>8922 Field Street</Address1>
+<City>Madison</City>
+<Region>WI</Region>
+<Country>USA</Country>
+<Postal_Code>53795</Postal_Code>
+<E-mail>Manon@ppb.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>608-273-4233</Phone>
+<Fax>608-273-7668</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>29</Customer_ID>
+<Customer_Credit_ID>29</Customer_Credit_ID>
+<Customer_Name>Blazing Bikes</Customer_Name>
+<Contact_First_Name>Gary</Contact_First_Name>
+<Contact_Last_Name>Campbell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>19193.6775</Last_Years_Sales>
+<Address1>5202 Matthew Boulevard</Address1>
+<City>Eden Prairie</City>
+<Region>MN</Region>
+<Country>USA</Country>
+<Postal_Code>55334</Postal_Code>
+<E-mail>Campbell@bft.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>612-947-5737</Phone>
+<Fax>612-947-5930</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>30</Customer_ID>
+<Customer_Credit_ID>30</Customer_Credit_ID>
+<Customer_Name>Spokes for Folks</Customer_Name>
+<Contact_First_Name>Brent</Contact_First_Name>
+<Contact_Last_Name>Lansing</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>47228.6375</Last_Years_Sales>
+<Address1>2340 Alexander Way</Address1>
+<City>Hightstown</City>
+<Region>NJ</Region>
+<Country>USA</Country>
+<Postal_Code>08557</Postal_Code>
+<E-mail>Lansing@cyclessports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>609-426-4114</Phone>
+<Fax>609-426-6467</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>31</Customer_ID>
+<Customer_Credit_ID>31</Customer_Credit_ID>
+<Customer_Name>To The Limit Biking Co.</Customer_Name>
+<Contact_First_Name>Richard</Contact_First_Name>
+<Contact_Last_Name>Grewal</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>32487.125</Last_Years_Sales>
+<Address1>6042 Fell Court</Address1>
+<City>Nampa</City>
+<Region>ID</Region>
+<Country>USA</Country>
+<Postal_Code>83649</Postal_Code>
+<E-mail>Grewal@bikingit.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>208-893-5621</Phone>
+<Fax>208-893-9208</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>32</Customer_ID>
+<Customer_Credit_ID>32</Customer_Credit_ID>
+<Customer_Name>Spokes</Customer_Name>
+<Contact_First_Name>Sheryl</Contact_First_Name>
+<Contact_Last_Name>Rodgers</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>27154.9</Last_Years_Sales>
+<Address1>964 Jester Court</Address1>
+<Address2>Suite 2213</Address2>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60128</Postal_Code>
+<E-mail>Rodgers@crazyw.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-3253</Phone>
+<Fax>815-756-5386</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>33</Customer_ID>
+<Customer_Credit_ID>33</Customer_Credit_ID>
+<Customer_Name>Fulcrum Cycles</Customer_Name>
+<Contact_First_Name>Markus</Contact_First_Name>
+<Contact_Last_Name>Holt</Contact_Last_Name>
+<Contact_Title>Dr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>12013.955</Last_Years_Sales>
+<Address1>170 St. Joseph Boulevard</Address1>
+<Address2>Suite 2023</Address2>
+<City>Winchester</City>
+<Region>VA</Region>
+<Country>USA</Country>
+<Postal_Code>22691</Postal_Code>
+<E-mail>Holt@hcc.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>540-662-9895</Phone>
+<Fax>540-662-8254</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>34</Customer_ID>
+<Customer_Credit_ID>34</Customer_Credit_ID>
+<Customer_Name>Off the Mountain Biking</Customer_Name>
+<Contact_First_Name>Laurie</Contact_First_Name>
+<Contact_Last_Name>Lee-Johnson</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>25000</Last_Years_Sales>
+<Address1>192 St. Luke Boulevard</Address1>
+<Address2>Suite 1724</Address2>
+<City>Irvine</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>92725</Postal_Code>
+<E-mail>Lee-Johnson@bss.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>714-450-3622</Phone>
+<Fax>714-450-9776</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>35</Customer_ID>
+<Customer_Credit_ID>35</Customer_Credit_ID>
+<Customer_Name>Mad Mountain Bikes</Customer_Name>
+<Contact_First_Name>Tracy</Contact_First_Name>
+<Contact_Last_Name>Hanna</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>35009.2225</Last_Years_Sales>
+<Address1>1995 Melbourne Street</Address1>
+<Address2>Suite 2813</Address2>
+<City>Nampa</City>
+<Region>ID</Region>
+<Country>USA</Country>
+<Postal_Code>83683</Postal_Code>
+<E-mail>Hanna@galaxy.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>208-893-5874</Phone>
+<Fax>208-893-2316</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>36</Customer_ID>
+<Customer_Credit_ID>36</Customer_Credit_ID>
+<Customer_Name>Road Runners Paradise</Customer_Name>
+<Contact_First_Name>Julia</Contact_First_Name>
+<Contact_Last_Name>Jackson</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>20747.2375</Last_Years_Sales>
+<Address1>1053 Adelaide Street</Address1>
+<City>Kingston</City>
+<Region>RI</Region>
+<Country>USA</Country>
+<Postal_Code>02880</Postal_Code>
+<E-mail>Jackson@mindong.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>401-788-3133</Phone>
+<Fax>401-788-9590</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>37</Customer_ID>
+<Customer_Credit_ID>37</Customer_Credit_ID>
+<Customer_Name>Has Been Bikes (consignment)</Customer_Name>
+<Contact_First_Name>Jane</Contact_First_Name>
+<Contact_Last_Name>Fasan</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>300</Last_Years_Sales>
+<Address1>5307 Victoria Avenue</Address1>
+<City>Kingston</City>
+<Region>RI</Region>
+<Country>USA</Country>
+<Postal_Code>02827</Postal_Code>
+<E-mail>Fasan@aic.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>401-788-2853</Phone>
+<Fax>401-7889494</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>38</Customer_ID>
+<Customer_Credit_ID>38</Customer_Credit_ID>
+<Customer_Name>Tyred Out</Customer_Name>
+<Contact_First_Name>Donald</Contact_First_Name>
+<Contact_Last_Name>Edwards</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>18126.33</Last_Years_Sales>
+<Address1>3687 Kerrisdale Street</Address1>
+<Address2>Suite 2115</Address2>
+<City>Santa Ana</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>92721</Postal_Code>
+<E-mail>Edwards@ccsp.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>714-751-5999</Phone>
+<Fax>714-751-3440</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>39</Customer_ID>
+<Customer_Credit_ID>39</Customer_Credit_ID>
+<Customer_Name>Wheels Inc.</Customer_Name>
+<Contact_First_Name>Stacy</Contact_First_Name>
+<Contact_Last_Name>Bodnar</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>21642.1375</Last_Years_Sales>
+<Address1>7044 King Georfe Street</Address1>
+<Address2>Suite 717</Address2>
+<City>Des Moines</City>
+<Region>IA</Region>
+<Country>USA</Country>
+<Postal_Code>50356</Postal_Code>
+<E-mail>Bodnar@newpeople.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>515-237-9667</Phone>
+<Fax>515-237-0461</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>40</Customer_ID>
+<Customer_Credit_ID>40</Customer_Credit_ID>
+<Customer_Name>Cyclist&apos;s Trail Co.</Customer_Name>
+<Contact_First_Name>Alexa</Contact_First_Name>
+<Contact_Last_Name>Quartermaine</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>15937.9575</Last_Years_Sales>
+<Address1>4122 Panorama Place</Address1>
+<Address2>Suite 2807</Address2>
+<City>Sterling Heights</City>
+<Region>MI</Region>
+<Country>USA</Country>
+<Postal_Code>48320</Postal_Code>
+<E-mail>Quartermaine@globebike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>810-939-0489</Phone>
+<Fax>810-939-1611</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>41</Customer_ID>
+<Customer_Credit_ID>41</Customer_Credit_ID>
+<Customer_Name>Deals on Wheels</Customer_Name>
+<Contact_First_Name>Ron</Contact_First_Name>
+<Contact_Last_Name>Cunningham</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>11717.235</Last_Years_Sales>
+<Address1>6073 Cambie Court</Address1>
+<Address2>Suite 1214</Address2>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60153</Postal_Code>
+<E-mail>Cunningham@haonannu.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-7678</Phone>
+<Fax>815-756-4293</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>42</Customer_ID>
+<Customer_Credit_ID>42</Customer_Credit_ID>
+<Customer_Name>Rad Bikes</Customer_Name>
+<Contact_First_Name>Jerry</Contact_First_Name>
+<Contact_Last_Name>Esler</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>41954.715</Last_Years_Sales>
+<Address1>8217 Prince Edward Place</Address1>
+<City>Tualatin</City>
+<Region>OR</Region>
+<Country>USA</Country>
+<Postal_Code>97068</Postal_Code>
+<E-mail>Esler@yuexiu.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>503-647-4484</Phone>
+<Fax>503-647-1117</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>43</Customer_ID>
+<Customer_Credit_ID>43</Customer_Credit_ID>
+<Customer_Name>Insane Cycle</Customer_Name>
+<Contact_First_Name>Nadine</Contact_First_Name>
+<Contact_Last_Name>Scott</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8000</Last_Years_Sales>
+<Address1>5198 Argus Place</Address1>
+<City>Conshohocken</City>
+<Region>PA</Region>
+<Country>USA</Country>
+<Postal_Code>19442</Postal_Code>
+<E-mail>Scott@jinjing.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>610-941-9254</Phone>
+<Fax>610-941-1070</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>44</Customer_ID>
+<Customer_Credit_ID>44</Customer_Credit_ID>
+<Customer_Name>Our Wheels Follow Us Everywhere</Customer_Name>
+<Contact_First_Name>Robert</Contact_First_Name>
+<Contact_Last_Name>Walter</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>38170.6475</Last_Years_Sales>
+<Address1>1544 Venus Court</Address1>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60148</Postal_Code>
+<E-mail>Walter@pedales.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-6823</Phone>
+<Fax>815-756-6831</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>45</Customer_ID>
+<Customer_Credit_ID>45</Customer_Credit_ID>
+<Customer_Name>Cycles and Sports</Customer_Name>
+<Contact_First_Name>Zachary</Contact_First_Name>
+<Contact_Last_Name>Barbera</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>38199.095</Last_Years_Sales>
+<Address1>2290 Cambie Street</Address1>
+<Address2>Suite 1025</Address2>
+<City>Vancouver</City>
+<Region>BC</Region>
+<Country>Canada</Country>
+<Postal_Code>V6G 4V3</Postal_Code>
+<E-mail>Barbera@bsj.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>604-685-0019</Phone>
+<Fax>604-685-8514</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>46</Customer_ID>
+<Customer_Credit_ID>46</Customer_Credit_ID>
+<Customer_Name>Backpedal Cycle Shop</Customer_Name>
+<Contact_First_Name>Joe</Contact_First_Name>
+<Contact_Last_Name>Lee</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>25162.0525</Last_Years_Sales>
+<Address1>743 Three Rivers Way</Address1>
+<Address2>Suite 2214</Address2>
+<City>Philadelphia</City>
+<Region>PA</Region>
+<Country>USA</Country>
+<Postal_Code>19178</Postal_Code>
+<E-mail>Lee@praguesports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>215-928-1876</Phone>
+<Fax>215-928-1120</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>47</Customer_ID>
+<Customer_Credit_ID>47</Customer_Credit_ID>
+<Customer_Name>Karma Bikes</Customer_Name>
+<Contact_First_Name>Kim</Contact_First_Name>
+<Contact_Last_Name>Karl</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>9000</Last_Years_Sales>
+<Address1>1516 Ohio Avenue</Address1>
+<Address2>Suite 2621</Address2>
+<City>Blacklick</City>
+<Region>OH</Region>
+<Country>USA</Country>
+<Postal_Code>43092</Postal_Code>
+<E-mail>Karl@csc.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>614-759-1164</Phone>
+<Fax>614-759-0518</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>48</Customer_ID>
+<Customer_Credit_ID>48</Customer_Credit_ID>
+<Customer_Name>Mountain Madmen Bicycles</Customer_Name>
+<Contact_First_Name>Andrew</Contact_First_Name>
+<Contact_Last_Name>Dong</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>28190.5225</Last_Years_Sales>
+<Address1>9001 Metro Way</Address1>
+<Address2>Suite 2010</Address2>
+<City>Hightstown</City>
+<Region>NJ</Region>
+<Country>USA</Country>
+<Postal_Code>08513</Postal_Code>
+<E-mail>Dong@rdsd.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>609-426-7758</Phone>
+<Fax>609-426-3302</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>49</Customer_ID>
+<Customer_Credit_ID>49</Customer_Credit_ID>
+<Customer_Name>Rocky Roadsters</Customer_Name>
+<Contact_First_Name>Cindy</Contact_First_Name>
+<Contact_Last_Name>Forester</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>28681.5275</Last_Years_Sales>
+<Address1>1430 Hastings Boulevard</Address1>
+<City>Conshohocken</City>
+<Region>PA</Region>
+<Country>USA</Country>
+<Postal_Code>19440</Postal_Code>
+<E-mail>Forester@sel.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>610-941-1921</Phone>
+<Fax>610-941-0696</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>50</Customer_ID>
+<Customer_Credit_ID>50</Customer_Credit_ID>
+<Customer_Name>Crazy Wheels</Customer_Name>
+<Contact_First_Name>Davy</Contact_First_Name>
+<Contact_Last_Name>Douglas</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>38280.5275</Last_Years_Sales>
+<Address1>8766 Glenaire Way</Address1>
+<City>Port Coquitlam</City>
+<Region>BC</Region>
+<Country>Canada</Country>
+<Postal_Code>V3C 2Y8</Postal_Code>
+<E-mail>Douglas@cairobicycles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>604-941-5469</Phone>
+<Fax>604-941-1976</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>51</Customer_ID>
+<Customer_Credit_ID>51</Customer_Credit_ID>
+<Customer_Name>Biking&apos;s It Industries</Customer_Name>
+<Contact_First_Name>Katie</Contact_First_Name>
+<Contact_Last_Name>Cronin</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>30348.92</Last_Years_Sales>
+<Address1>4643 Camstock Avenue</Address1>
+<City>Burnaby</City>
+<Region>BC</Region>
+<Country>Canada</Country>
+<Postal_Code>V5C 7Z1</Postal_Code>
+<E-mail>Cronin@extercycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>604-298-4841</Phone>
+<Fax>604-298-0157</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>52</Customer_ID>
+<Customer_Credit_ID>52</Customer_Credit_ID>
+<Customer_Name>Bikes, Bikes, and More Bikes</Customer_Name>
+<Contact_First_Name>Janice</Contact_First_Name>
+<Contact_Last_Name>Pierson</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>25379.095</Last_Years_Sales>
+<Address1>3952 Main Street</Address1>
+<City>Des Moines</City>
+<Region>IA</Region>
+<Country>USA</Country>
+<Postal_Code>50344</Postal_Code>
+<E-mail>Pierson@lifecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>515-237-8975</Phone>
+<Fax>515-237-4093</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>53</Customer_ID>
+<Customer_Credit_ID>53</Customer_Credit_ID>
+<Customer_Name>Rough Terrain</Customer_Name>
+<Contact_First_Name>Matt</Contact_First_Name>
+<Contact_Last_Name>Trent</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>37488.7475</Last_Years_Sales>
+<Address1>1502 Nelson Way</Address1>
+<Address2>Suite 805</Address2>
+<City>Madison</City>
+<Region>WI</Region>
+<Country>USA</Country>
+<Postal_Code>53730</Postal_Code>
+<E-mail>Trent@westerly.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>608-273-6250</Phone>
+<Fax>608-273-1699</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>54</Customer_ID>
+<Customer_Credit_ID>54</Customer_Credit_ID>
+<Customer_Name>Cyclopath</Customer_Name>
+<Contact_First_Name>Scott</Contact_First_Name>
+<Contact_Last_Name>Mueller</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>38492.56</Last_Years_Sales>
+<Address1>647 Panorama Crescent</Address1>
+<Address2>Suite 107</Address2>
+<City>Kingston</City>
+<Region>RI</Region>
+<Country>USA</Country>
+<Postal_Code>02816</Postal_Code>
+<E-mail>Mueller@donview.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>401-788-2360</Phone>
+<Fax>401-788-8808</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>55</Customer_ID>
+<Customer_Credit_ID>55</Customer_Credit_ID>
+<Customer_Name>Tandem Cycle</Customer_Name>
+<Contact_First_Name>Gordon</Contact_First_Name>
+<Contact_Last_Name>Bell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>29404.385</Last_Years_Sales>
+<Address1>7040 Park Place</Address1>
+<Address2>Suite 1407</Address2>
+<City>Nampa</City>
+<Region>ID</Region>
+<Country>USA</Country>
+<Postal_Code>83650</Postal_Code>
+<E-mail>Bell@tomsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>208-893-0312</Phone>
+<Fax>208-893-3282</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>56</Customer_ID>
+<Customer_Credit_ID>56</Customer_Credit_ID>
+<Customer_Name>On The Edge Cyclery</Customer_Name>
+<Contact_First_Name>Douglas</Contact_First_Name>
+<Contact_Last_Name>McDougall</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>9751.45</Last_Years_Sales>
+<Address1>2145 Boardwalk</Address1>
+<Address2>Suite 1214</Address2>
+<City>Kingston</City>
+<Region>RI</Region>
+<Country>USA</Country>
+<Postal_Code>02896</Postal_Code>
+<E-mail>McDougall@mks.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>401-788-7227</Phone>
+<Fax>401-788-5215</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>57</Customer_ID>
+<Customer_Credit_ID>57</Customer_Credit_ID>
+<Customer_Name>Tek Bikes</Customer_Name>
+<Contact_First_Name>Elizabeth</Contact_First_Name>
+<Contact_Last_Name>Kawa</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>301568.22</Last_Years_Sales>
+<Address1>8018 Meacon Crescent</Address1>
+<Address2>Suite 2607</Address2>
+<City>Philadelphia</City>
+<Region>PA</Region>
+<Country>USA</Country>
+<Postal_Code>19144</Postal_Code>
+<E-mail>Kawa@wheel.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>215-928-6658</Phone>
+<Fax>215-928-4038</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>58</Customer_ID>
+<Customer_Credit_ID>58</Customer_Credit_ID>
+<Customer_Name>Making Tracks</Customer_Name>
+<Contact_First_Name>Rosie</Contact_First_Name>
+<Contact_Last_Name>Forbes</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>32249.545</Last_Years_Sales>
+<Address1>5511 Ocean Road</Address1>
+<City>Concord</City>
+<Region>MA</Region>
+<Country>USA</Country>
+<Postal_Code>01767</Postal_Code>
+<E-mail>Forbes@greatoutdoors.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>508-287-1664</Phone>
+<Fax>508-287-2802</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>59</Customer_ID>
+<Customer_Credit_ID>59</Customer_Credit_ID>
+<Customer_Name>The Biker&apos;s Path</Customer_Name>
+<Contact_First_Name>Donna</Contact_First_Name>
+<Contact_Last_Name>Marshall</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>29036.5725</Last_Years_Sales>
+<Address1>3519 Beacon Avenue</Address1>
+<Address2>Suite 2909</Address2>
+<City>DeKalb</City>
+<Region>IL</Region>
+<Country>USA</Country>
+<Postal_Code>60152</Postal_Code>
+<E-mail>Marshall@bbs.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>815-756-4084</Phone>
+<Fax>815-756-9795</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>60</Customer_ID>
+<Customer_Credit_ID>60</Customer_Credit_ID>
+<Customer_Name>Bikes for Tykes</Customer_Name>
+<Contact_First_Name>Dave</Contact_First_Name>
+<Contact_Last_Name>Elkins</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1800</Last_Years_Sales>
+<Address1>7949 Elm Boulevard</Address1>
+<Address2>Suite 3012</Address2>
+<City>Vancouver</City>
+<Region>BC</Region>
+<Country>Canada</Country>
+<Postal_Code>V6E 2S5</Postal_Code>
+<E-mail>Elkins@picadillycycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>604-681-9443</Phone>
+<Fax>604-681-5300</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>61</Customer_ID>
+<Customer_Credit_ID>61</Customer_Credit_ID>
+<Customer_Name>Benny - The Spokes Person</Customer_Name>
+<Contact_First_Name>Caitlin</Contact_First_Name>
+<Contact_Last_Name>Jones</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>6091.96</Last_Years_Sales>
+<Address1>1020 Oak Way</Address1>
+<Address2>Suite 1711</Address2>
+<City>Huntsville</City>
+<Region>AL</Region>
+<Country>USA</Country>
+<Postal_Code>35861</Postal_Code>
+<E-mail>Jones@lifecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>205-430-3670</Phone>
+<Fax>205-430-6031</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>62</Customer_ID>
+<Customer_Credit_ID>62</Customer_Credit_ID>
+<Customer_Name>Bike Shop from Mars</Customer_Name>
+<Contact_First_Name>John</Contact_First_Name>
+<Contact_Last_Name>MacCloud</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>25873.245</Last_Years_Sales>
+<Address1>7071 Dundas Crescent</Address1>
+<Address2>Suite 1730</Address2>
+<City>Newbury Park</City>
+<Region>CA</Region>
+<Country>USA</Country>
+<Postal_Code>91338</Postal_Code>
+<E-mail>MacCloud@hitdirt.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>805-375-0110</Phone>
+<Fax>805-375-6707</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>63</Customer_ID>
+<Customer_Credit_ID>63</Customer_Credit_ID>
+<Customer_Name>Feel Great Bikes Inc.</Customer_Name>
+<Contact_First_Name>Craig</Contact_First_Name>
+<Contact_Last_Name>Jacobson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>40944.4655</Last_Years_Sales>
+<Address1>3015 Delta Place</Address1>
+<Address2>Suite 2601</Address2>
+<City>Eden Prairie</City>
+<Region>MN</Region>
+<Country>USA</Country>
+<Postal_Code>55367</Postal_Code>
+<E-mail>Jacobson@sunrise.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>612-947-1362</Phone>
+<Fax>612-947-3253</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>64</Customer_ID>
+<Customer_Credit_ID>64</Customer_Credit_ID>
+<Customer_Name>SAB Mountain</Customer_Name>
+<Contact_First_Name>Claus</Contact_First_Name>
+<Contact_Last_Name>Main</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>401000</Last_Years_Sales>
+<Address1>Hauptstr. 29</Address1>
+<City>Bern</City>
+<Region>Cantons</Region>
+<Country>Switzerland</Country>
+<Postal_Code>CH-3006</Postal_Code>
+<E-mail>Main@sourceone.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>41 45-207-65-45</Phone>
+<Fax>41 045-207-65-46</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>65</Customer_ID>
+<Customer_Credit_ID>65</Customer_Credit_ID>
+<Customer_Name>Platou Sport</Customer_Name>
+<Contact_First_Name>Jonas</Contact_First_Name>
+<Contact_Last_Name>Bergulfsen</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Erling Skakkes gate 78</Address1>
+<City>Stavanger</City>
+<Region>Rogaland</Region>
+<Country>Norway</Country>
+<Postal_Code>N-3290</Postal_Code>
+<E-mail>Bergulfsen@helsinkibicycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>47-22-323-023</Phone>
+<Fax>47-22-356-442</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>66</Customer_ID>
+<Customer_Credit_ID>66</Customer_Credit_ID>
+<Customer_Name>Piccolo</Customer_Name>
+<Contact_First_Name>Georg</Contact_First_Name>
+<Contact_Last_Name>Pipps</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Geislweg 14</Address1>
+<City>Salzburg</City>
+<Region>Salzkammergut</Region>
+<Country>Austria</Country>
+<Postal_Code>A-5020</Postal_Code>
+<E-mail>Pipps@lillevtt.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>43-662-972262</Phone>
+<Fax>43-62-972345</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>67</Customer_ID>
+<Customer_Credit_ID>67</Customer_Credit_ID>
+<Customer_Name>Paris Mountain Sports</Customer_Name>
+<Contact_First_Name>Marie</Contact_First_Name>
+<Contact_Last_Name>Bertrand</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>300000</Last_Years_Sales>
+<Address1>265, boulevard Charonne</Address1>
+<City>Paris</City>
+<Region>Ile de France</Region>
+<Country>France</Country>
+<Postal_Code>75012</Postal_Code>
+<E-mail>Bertrand@toulousevelos.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-92-72-04-89</Phone>
+<Fax>33-4-92-72-04-98</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>68</Customer_ID>
+<Customer_Credit_ID>68</Customer_Credit_ID>
+<Customer_Name>Magazzini</Customer_Name>
+<Contact_First_Name>Giovanni</Contact_First_Name>
+<Contact_Last_Name>Rovelli</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Via Ludovico il Moro 22</Address1>
+<Address2>Suite 25</Address2>
+<City>Bergamo</City>
+<Region>Lombardia</Region>
+<Country>Italy</Country>
+<Postal_Code>24100</Postal_Code>
+<E-mail>Rovelli@sportscenterville.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>39-81-9444-0922</Phone>
+<Fax>39-81-9444-0934</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>69</Customer_ID>
+<Customer_Credit_ID>69</Customer_Credit_ID>
+<Customer_Name>Furia</Customer_Name>
+<Contact_First_Name>Lino</Contact_First_Name>
+<Contact_Last_Name>Rodriguez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Jardim das rosas n. 32</Address1>
+<City>Lisbon</City>
+<Region>Lisbon</Region>
+<Country>Portugal</Country>
+<Postal_Code>1900</Postal_Code>
+<E-mail>Rodriguez@lourdessport.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>351-1-35-42-534</Phone>
+<Fax>351-1-35-42-566</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>70</Customer_ID>
+<Customer_Credit_ID>70</Customer_Credit_ID>
+<Customer_Name>Folk och fä HB</Customer_Name>
+<Contact_First_Name>Marie</Contact_First_Name>
+<Contact_Last_Name>Larsson</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Åkergatan 24</Address1>
+<City>Bräcke</City>
+<Region>Jaemtland</Region>
+<Country>Sweden</Country>
+<Postal_Code>S-844 67</Postal_Code>
+<E-mail>Larsson@parismountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>069-53-46721</Phone>
+<Fax>069-53-46133</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>71</Customer_ID>
+<Customer_Credit_ID>71</Customer_Credit_ID>
+<Customer_Name>BBS Pty</Customer_Name>
+<Contact_First_Name>Victoria</Contact_First_Name>
+<Contact_Last_Name>Ashworth</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>500000</Last_Years_Sales>
+<Address1>45 Fauntleroy Circus</Address1>
+<City>London</City>
+<Region>Greater London</Region>
+<Country>England</Country>
+<Postal_Code>EC2 5NT</Postal_Code>
+<E-mail>Ashworth@gagnersports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-171-551-1212</Phone>
+<Fax>44-171-551-1321</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>72</Customer_ID>
+<Customer_Credit_ID>72</Customer_Credit_ID>
+<Customer_Name>Cycle City Rome</Customer_Name>
+<Contact_First_Name>Paolo</Contact_First_Name>
+<Contact_Last_Name>Accorti</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Via Monte Bianco 34</Address1>
+<City>Torino</City>
+<Region>Piedmonte</Region>
+<Country>Italy</Country>
+<Postal_Code>10100</Postal_Code>
+<E-mail>Accorti@francesports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>39-2-4242-4995</Phone>
+<Fax>39-2-4242-4999</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>73</Customer_ID>
+<Customer_Credit_ID>73</Customer_Credit_ID>
+<Customer_Name>Tienda de Bicicletas El Pardo</Customer_Name>
+<Contact_First_Name>Alejandra</Contact_First_Name>
+<Contact_Last_Name>Camino</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>201000</Last_Years_Sales>
+<Address1>Gran Vía, 1</Address1>
+<City>Madrid</City>
+<Region>Madrid</Region>
+<Country>Spain</Country>
+<Postal_Code>28001</Postal_Code>
+<E-mail>Camino@sportsbeaucharmp.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>34-91-7456200</Phone>
+<Fax>34-91-7456210</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>74</Customer_ID>
+<Customer_Credit_ID>74</Customer_Credit_ID>
+<Customer_Name>Fahrkraft Räder</Customer_Name>
+<Contact_First_Name>Sven</Contact_First_Name>
+<Contact_Last_Name>Hoffman</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>500000</Last_Years_Sales>
+<Address1>Heinrich-Held-Str. 190</Address1>
+<City>Bonn</City>
+<Region>Nordrhein-Westfalen</Region>
+<Country>Germany</Country>
+<Postal_Code>D-53001</Postal_Code>
+<E-mail>Hoffman@centresportif.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-0777-9042-53</Phone>
+<Fax>49-0777-9042-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>75</Customer_ID>
+<Customer_Credit_ID>75</Customer_Credit_ID>
+<Customer_Name>Belgium Bike Co.</Customer_Name>
+<Contact_First_Name>Pierre</Contact_First_Name>
+<Contact_Last_Name>Renault</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>200000</Last_Years_Sales>
+<Address1>Auguste Demaeghtlaan 9823</Address1>
+<City>Brussels</City>
+<Region>Brussels</Region>
+<Country>Belgium</Country>
+<Postal_Code>47899</Postal_Code>
+<E-mail>Renault@calaiscyclisme.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>32-3-390-893</Phone>
+<Fax>32-3-390-801</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>76</Customer_ID>
+<Customer_Credit_ID>76</Customer_Credit_ID>
+<Customer_Name>Canal City Cycle</Customer_Name>
+<Contact_First_Name>Sven</Contact_First_Name>
+<Contact_Last_Name>Vandervoort</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>100000</Last_Years_Sales>
+<Address1>13300 Damrak Street</Address1>
+<Address2>Suite 2210</Address2>
+<City>Amsterdam</City>
+<Region>Noord Holland</Region>
+<Country>Netherlands</Country>
+<Postal_Code>NL-1076</Postal_Code>
+<E-mail>Vandervoort@velosbasse.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>31-20-4043-4011</Phone>
+<Fax>31-20-4043-4788</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>77</Customer_ID>
+<Customer_Credit_ID>77</Customer_Credit_ID>
+<Customer_Name>Warsaw Sports, Inc.</Customer_Name>
+<Contact_First_Name>Pavel</Contact_First_Name>
+<Contact_Last_Name>Ropoleski</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>100000</Last_Years_Sales>
+<Address1>ul. Nowogrodzka 94/96</Address1>
+<City>Warsaw</City>
+<Region>Warsaw</Region>
+<Country>Poland</Country>
+<Postal_Code>02-537</Postal_Code>
+<E-mail>Ropoleski@bicyclettedunord.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>48-12-2323-2995</Phone>
+<Fax>48-12-2323-2934</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>78</Customer_ID>
+<Customer_Credit_ID>78</Customer_Credit_ID>
+<Customer_Name>Greenlane Bicycles</Customer_Name>
+<Contact_First_Name>Hank</Contact_First_Name>
+<Contact_Last_Name>Binford</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>90000</Last_Years_Sales>
+<Address1>41 King Street</Address1>
+<City>Dublin</City>
+<Region>Dublin</Region>
+<Country>Ireland</Country>
+<E-mail>Binford@boedeauxsports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>353-03-9443-4343</Phone>
+<Fax>353-03-9443-4334</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>79</Customer_ID>
+<Customer_Credit_ID>79</Customer_Credit_ID>
+<Customer_Name>Helsinki Bicycle</Customer_Name>
+<Contact_First_Name>Klaus</Contact_First_Name>
+<Contact_Last_Name>Fostell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>668.9</Last_Years_Sales>
+<Address1>Kalevankatu 346</Address1>
+<City>Helsinki</City>
+<Region>Uusimaa</Region>
+<Country>Finland</Country>
+<Postal_Code>4344</Postal_Code>
+<E-mail>Fostell@sudcycles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>358-9-2433-0332</Phone>
+<Fax>358-9-2433-0337</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>80</Customer_ID>
+<Customer_Credit_ID>80</Customer_Credit_ID>
+<Customer_Name>France Sports</Customer_Name>
+<Contact_First_Name>Claude</Contact_First_Name>
+<Contact_Last_Name>Houle</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>7544.4</Last_Years_Sales>
+<Address1>95, rue de la Fontaine</Address1>
+<City>Cherbourg</City>
+<Region>Basse Normandie</Region>
+<Country>France</Country>
+<Postal_Code>50100</Postal_Code>
+<E-mail>Houle@velosbernard.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-10-39-34-89</Phone>
+<Fax>33-2-10-39-34-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>81</Customer_ID>
+<Customer_Credit_ID>81</Customer_Credit_ID>
+<Customer_Name>Centre Sportif Cherbourg</Customer_Name>
+<Contact_First_Name>Georges</Contact_First_Name>
+<Contact_Last_Name>Lasalle</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>16112.7</Last_Years_Sales>
+<Address1>918, rue Belle-vue</Address1>
+<City>Le Havre</City>
+<Region>Haute Normandie</Region>
+<Country>France</Country>
+<Postal_Code>76610</Postal_Code>
+<E-mail>Lasalle@bmx.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-32-49-58-05</Phone>
+<Fax>33-2-32-49-58-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>82</Customer_ID>
+<Customer_Credit_ID>82</Customer_Credit_ID>
+<Customer_Name>Vélos Basse Normandie</Customer_Name>
+<Contact_First_Name>Marc</Contact_First_Name>
+<Contact_Last_Name>Gaucher</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1073.8</Last_Years_Sales>
+<Address1>75, rue Haute</Address1>
+<City>Caen</City>
+<Region>Basse Normandie</Region>
+<Country>France</Country>
+<Postal_Code>14000</Postal_Code>
+<E-mail>Gaucher@sportsfrance.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-32-93-03-07</Phone>
+<Fax>33-2-32-93-03-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>83</Customer_ID>
+<Customer_Credit_ID>83</Customer_Credit_ID>
+<Customer_Name>Calais Cyclisme</Customer_Name>
+<Contact_First_Name>Michelle</Contact_First_Name>
+<Contact_Last_Name>Laviolette</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1799.7</Last_Years_Sales>
+<Address1>7, rue du Cimetiere</Address1>
+<City>Calais</City>
+<Region>Nord Pas-de-Calais</Region>
+<Country>France</Country>
+<Postal_Code>62100</Postal_Code>
+<E-mail>Laviolette@sportsalsace.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-63-07-93-01</Phone>
+<Fax>33-2-63-07-93-01</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>84</Customer_ID>
+<Customer_Credit_ID>84</Customer_Credit_ID>
+<Customer_Name>Lille VTT</Customer_Name>
+<Contact_First_Name>Suzanne</Contact_First_Name>
+<Contact_Last_Name>LeClair</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>3371.72</Last_Years_Sales>
+<Address1>165, rue de l&apos;Eglise</Address1>
+<City>Lille</City>
+<Region>Nord Pas-de-Calais</Region>
+<Country>France</Country>
+<Postal_Code>59000</Postal_Code>
+<E-mail>LeClair@centresportif.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-59-50-30-21</Phone>
+<Fax>33-2-59-50-30-22</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>85</Customer_ID>
+<Customer_Credit_ID>85</Customer_Credit_ID>
+<Customer_Name>Bicyclette du Nord</Customer_Name>
+<Contact_First_Name>Elise</Contact_First_Name>
+<Contact_Last_Name>Marchand</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>16, rue des Chevaliers</Address1>
+<City>Arras</City>
+<Region>Nord Pas-de-Calais</Region>
+<Country>France</Country>
+<Postal_Code>62000</Postal_Code>
+<E-mail>Marchand@velosemile.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-11-98-87-34</Phone>
+<Fax>33-2-11-98-87-39</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>86</Customer_ID>
+<Customer_Credit_ID>86</Customer_Credit_ID>
+<Customer_Name>Sports 4-Saisons</Customer_Name>
+<Contact_First_Name>Manon</Contact_First_Name>
+<Contact_Last_Name>Pedneault</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1191.4</Last_Years_Sales>
+<Address1>402, rue Prince Geroges</Address1>
+<Address2>Bâtiment B</Address2>
+<City>Dunkerque</City>
+<Region>Nord Pas-de-Calais</Region>
+<Country>France</Country>
+<Postal_Code>59140</Postal_Code>
+<E-mail>Pedneault@laplace.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-33-09-02-76</Phone>
+<Fax>33-2-33-09-02-72</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>87</Customer_ID>
+<Customer_Credit_ID>87</Customer_Credit_ID>
+<Customer_Name>La Place</Customer_Name>
+<Contact_First_Name>Jules</Contact_First_Name>
+<Contact_Last_Name>Davignion</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1611.7</Last_Years_Sales>
+<Address1>42, rue de l&apos;Eurpoe</Address1>
+<City>Rouen</City>
+<Region>Haute Normandie</Region>
+<Country>France</Country>
+<Postal_Code>76100</Postal_Code>
+<E-mail>Davignion@velosferrier.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-23-40-20-04</Phone>
+<Fax>33-2-23-40-23-90</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>88</Customer_ID>
+<Customer_Credit_ID>88</Customer_Credit_ID>
+<Customer_Name>Vélos Emile</Customer_Name>
+<Contact_First_Name>Emile</Contact_First_Name>
+<Contact_Last_Name>Laroche</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>4366.5</Last_Years_Sales>
+<Address1>56, rue des Foyers</Address1>
+<City>Amiens</City>
+<Region>Picardie</Region>
+<Country>France</Country>
+<Postal_Code>80080</Postal_Code>
+<E-mail>Laroche@auvergnebicross.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-25-30-39-30</Phone>
+<Fax>33-2-25-30-32-00</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>89</Customer_ID>
+<Customer_Credit_ID>89</Customer_Credit_ID>
+<Customer_Name>Centre Sportif Delormier</Customer_Name>
+<Contact_First_Name>Réal</Contact_First_Name>
+<Contact_Last_Name>Delormier</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6713.5</Last_Years_Sales>
+<Address1>40, avenue Bernard</Address1>
+<City>Metz</City>
+<Region>Lorraine</Region>
+<Country>France</Country>
+<Postal_Code>57050</Postal_Code>
+<E-mail>Delormier@sportsfontainebleau.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-3-77-93-38-99</Phone>
+<Fax>33-3-77-93-38-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>90</Customer_ID>
+<Customer_Credit_ID>90</Customer_Credit_ID>
+<Customer_Name>Sports Alsace</Customer_Name>
+<Contact_First_Name>Thomas</Contact_First_Name>
+<Contact_Last_Name>Monpetit</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>52787.5</Last_Years_Sales>
+<Address1>11, rue Clemenceau</Address1>
+<Address2>2ème étage</Address2>
+<City>Strasbourg</City>
+<Region>Alsace</Region>
+<Country>France</Country>
+<Postal_Code>67100</Postal_Code>
+<E-mail>Monpetit@orleansvtt.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-3-29-92-29-29</Phone>
+<Fax>33-3-29-92-29-31</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>91</Customer_ID>
+<Customer_Credit_ID>91</Customer_Credit_ID>
+<Customer_Name>Vélos Ferrier</Customer_Name>
+<Contact_First_Name>Veronique</Contact_First_Name>
+<Contact_Last_Name>Ferrier</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2229.5</Last_Years_Sales>
+<Address1>187, rue de l&apos;Ecole</Address1>
+<City>Chartres</City>
+<Region>Centre</Region>
+<Country>France</Country>
+<Postal_Code>28000</Postal_Code>
+<E-mail>Ferrier@dijonsudvelos.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-94-56-53-90</Phone>
+<Fax>33-4-94-62-33-90</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>92</Customer_ID>
+<Customer_Credit_ID>92</Customer_Credit_ID>
+<Customer_Name>Sports Fontainebleau</Customer_Name>
+<Contact_First_Name>Anne</Contact_First_Name>
+<Contact_Last_Name>DuPont</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3131.36</Last_Years_Sales>
+<Address1>8, rue des Romains</Address1>
+<City>Fontainebleau</City>
+<Region>Île-de-France</Region>
+<Country>France</Country>
+<Postal_Code>77300</Postal_Code>
+<E-mail>DuPont@mulhousevelos.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-1-73-03-47-93</Phone>
+<Fax>33-1-73-03-47-93</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>93</Customer_ID>
+<Customer_Credit_ID>93</Customer_Credit_ID>
+<Customer_Name>BMX Orléans</Customer_Name>
+<Contact_First_Name>Celeste</Contact_First_Name>
+<Contact_Last_Name>Oulette</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>5438.7</Last_Years_Sales>
+<Address1>37, rue du Bois</Address1>
+<City>Orléans</City>
+<Region>Centre</Region>
+<Country>France</Country>
+<Postal_Code>45100</Postal_Code>
+<E-mail>Oulette@bicyclettebourgesnord.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-2-64-87-66-88</Phone>
+<Fax>33-2-64-87-66-90</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>94</Customer_ID>
+<Customer_Credit_ID>94</Customer_Credit_ID>
+<Customer_Name>Orléans VTT</Customer_Name>
+<Contact_First_Name>Christophe</Contact_First_Name>
+<Contact_Last_Name>Jolicoeur</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>6655.9</Last_Years_Sales>
+<Address1>53, rue St-Paul</Address1>
+<City>Troyes</City>
+<Region>Champagne-Ardenne</Region>
+<Country>France</Country>
+<Postal_Code>10000</Postal_Code>
+<E-mail>Jolicoeur@vtt.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-1-34-44-76-01</Phone>
+<Fax>33-1-34-44-76-05</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>95</Customer_ID>
+<Customer_Credit_ID>95</Customer_Credit_ID>
+<Customer_Name>Dijon Sud Vélos</Customer_Name>
+<Contact_First_Name>Suzette</Contact_First_Name>
+<Contact_Last_Name>Ganger</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1149.15</Last_Years_Sales>
+<Address1>82, chemin des Champs</Address1>
+<City>Dijon</City>
+<Region>Bourgogne</Region>
+<Country>France</Country>
+<Postal_Code>21000</Postal_Code>
+<E-mail>Ganger@arsenault.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-3-55-04-05-09</Phone>
+<Fax>33-3-55-04-05-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>96</Customer_ID>
+<Customer_Credit_ID>96</Customer_Credit_ID>
+<Customer_Name>Mulhouse Vélos</Customer_Name>
+<Contact_First_Name>Vincent</Contact_First_Name>
+<Contact_Last_Name>de la Montagne</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5359.7</Last_Years_Sales>
+<Address1>4 avenue de la Liberation</Address1>
+<City>Mulhouse</City>
+<Region>Alsace</Region>
+<Country>France</Country>
+<Postal_Code>68100</Postal_Code>
+<E-mail>de la Montagne@centrepoirot.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-32-00-98-87</Phone>
+<Fax>33-4-32-00-98-88</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>97</Customer_ID>
+<Customer_Credit_ID>97</Customer_Credit_ID>
+<Customer_Name>Bicyclette Bourges Nord</Customer_Name>
+<Contact_First_Name>Rejean</Contact_First_Name>
+<Contact_Last_Name>Lallier</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2099.25</Last_Years_Sales>
+<Address1>79, avenue de la Gare</Address1>
+<City>Bourges</City>
+<Region>Centre</Region>
+<Country>France</Country>
+<Postal_Code>18000</Postal_Code>
+<E-mail>Lallier@sports4saisons.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-10-92-09-09</Phone>
+<Fax>33-4-10-92-09-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>98</Customer_ID>
+<Customer_Credit_ID>98</Customer_Credit_ID>
+<Customer_Name>VTT La Rochelle</Customer_Name>
+<Contact_First_Name>Jean</Contact_First_Name>
+<Contact_Last_Name>Larouche</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1079.7</Last_Years_Sales>
+<Address1>41, rue de Lormier</Address1>
+<City>La Rochelle</City>
+<Region>Poitou Charentes</Region>
+<Country>France</Country>
+<Postal_Code>17000</Postal_Code>
+<E-mail>Larouche@berlinbiking.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-3-54-92-84-98</Phone>
+<Fax>33-3-54-92-84-34</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>99</Customer_ID>
+<Customer_Credit_ID>99</Customer_Credit_ID>
+<Customer_Name>Bordeaux Sports</Customer_Name>
+<Contact_First_Name>Gerard</Contact_First_Name>
+<Contact_Last_Name>LePage</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>533.75</Last_Years_Sales>
+<Address1>120, avenue des Pins</Address1>
+<City>Bordeaux</City>
+<Region>Aquitaine</Region>
+<Country>France</Country>
+<Postal_Code>33100</Postal_Code>
+<E-mail>LePage@bergtrails.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-5-34-42-94-09</Phone>
+<Fax>33-5-34-42-94-22</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>100</Customer_ID>
+<Customer_Credit_ID>100</Customer_Credit_ID>
+<Customer_Name>Arsenault et Maurier</Customer_Name>
+<Contact_First_Name>Gaston</Contact_First_Name>
+<Contact_Last_Name>Arsenault</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>12535.7</Last_Years_Sales>
+<Address1>40, rue St-Charles</Address1>
+<City>Clermont-Ferrand</City>
+<Region>Auvergne</Region>
+<Country>France</Country>
+<Postal_Code>63000</Postal_Code>
+<E-mail>Arsenault@fahrkraftrader.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-22-90-45-90</Phone>
+<Fax>33-4-22-90-45-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>101</Customer_ID>
+<Customer_Credit_ID>101</Customer_Credit_ID>
+<Customer_Name>Auvergne Bicross</Customer_Name>
+<Contact_First_Name>Yolande</Contact_First_Name>
+<Contact_Last_Name>Lafleur</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>5179.98</Last_Years_Sales>
+<Address1>43, rue des Arbres</Address1>
+<City>Vichy</City>
+<Region>Auvergne</Region>
+<Country>France</Country>
+<Postal_Code>03200</Postal_Code>
+<E-mail>Lafleur@hamburgrader.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-1-22-03-50-90</Phone>
+<Fax>33-1-22-03-53-85</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>102</Customer_ID>
+<Customer_Credit_ID>102</Customer_Credit_ID>
+<Customer_Name>Centre Poirot</Customer_Name>
+<Contact_First_Name>Julie-Anne</Contact_First_Name>
+<Contact_Last_Name>Poirot</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3653.65</Last_Years_Sales>
+<Address1>10, rue Principale</Address1>
+<Address2>9ème étage</Address2>
+<City>Lyon</City>
+<Region>Rhône-Alpes</Region>
+<Country>France</Country>
+<Postal_Code>69009</Postal_Code>
+<E-mail>Poirot@dortmondrad.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-11-19-10-49</Phone>
+<Fax>33-4-11-19-10-57</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>103</Customer_ID>
+<Customer_Credit_ID>103</Customer_Credit_ID>
+<Customer_Name>Sports France</Customer_Name>
+<Contact_First_Name>Gétan</Contact_First_Name>
+<Contact_Last_Name>Faucher</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6588.7</Last_Years_Sales>
+<Address1>40, rue de la Chapelle</Address1>
+<City>Grenoble</City>
+<Region>Rhône-Alpes</Region>
+<Country>France</Country>
+<Postal_Code>38000</Postal_Code>
+<E-mail>Faucher@offroadbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-22-40-09-02</Phone>
+<Fax>33-4-22-40-09-33</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>104</Customer_ID>
+<Customer_Credit_ID>104</Customer_Credit_ID>
+<Customer_Name>Sud Cycles</Customer_Name>
+<Contact_First_Name>Annette</Contact_First_Name>
+<Contact_Last_Name>Denault</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>68000.5</Last_Years_Sales>
+<Address1>34, rue. du Moulin</Address1>
+<City>St. Etienne</City>
+<Region>Rhône-Alpes</Region>
+<Country>France</Country>
+<Postal_Code>42007</Postal_Code>
+<E-mail>Denault@leipzigfreiheit.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-1-53-03-05-08</Phone>
+<Fax>33-1-53-03-05-24</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>105</Customer_ID>
+<Customer_Credit_ID>105</Customer_Credit_ID>
+<Customer_Name>Toulouse Vélos</Customer_Name>
+<Contact_First_Name>Jean-Paul</Contact_First_Name>
+<Contact_Last_Name>Voltaire</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>46479.85</Last_Years_Sales>
+<Address1>63, rue de Soleuvre</Address1>
+<City>Toulouse</City>
+<Region>Midi-Pyrénées</Region>
+<Country>France</Country>
+<Postal_Code>31100</Postal_Code>
+<E-mail>Voltaire@superbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-5-21-07-45-97</Phone>
+<Fax>33-5-21-07-45-98</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>106</Customer_ID>
+<Customer_Credit_ID>106</Customer_Credit_ID>
+<Customer_Name>Sports Centre-ville</Customer_Name>
+<Contact_First_Name>Louise</Contact_First_Name>
+<Contact_Last_Name>Lacasse</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>65005</Last_Years_Sales>
+<Address1>11, boulevard Henri</Address1>
+<City>Montpellier</City>
+<Region>Languedoc-Roussillon</Region>
+<Country>France</Country>
+<Postal_Code>34000</Postal_Code>
+<E-mail>Lacasse@athensbicycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-23-44-09-98</Phone>
+<Fax>33-4-23-44-09-31</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>107</Customer_ID>
+<Customer_Credit_ID>107</Customer_Credit_ID>
+<Customer_Name>Lourdes Sports</Customer_Name>
+<Contact_First_Name>Henri</Contact_First_Name>
+<Contact_Last_Name>De Montigny</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>53370.14</Last_Years_Sales>
+<Address1>54, avenue Pierre</Address1>
+<City>Lourdes</City>
+<Region>Aquitaine</Region>
+<Country>France</Country>
+<Postal_Code>65100</Postal_Code>
+<E-mail>De Montigny@eastbudapestsports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-5-92-28-02-33</Phone>
+<Fax>33-5-92-28-02-38</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>108</Customer_ID>
+<Customer_Credit_ID>108</Customer_Credit_ID>
+<Customer_Name>Gagner Sports</Customer_Name>
+<Contact_First_Name>Claude</Contact_First_Name>
+<Contact_Last_Name>Antoine</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>5155.4</Last_Years_Sales>
+<Address1>71, rue du Chateau</Address1>
+<City>Marseille</City>
+<Region>Provence-Alpes-Côte d’Azur</Region>
+<Country>France</Country>
+<Postal_Code>13010</Postal_Code>
+<E-mail>Antoine@indiacycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-92-03-77-03</Phone>
+<Fax>33-4-92-03-77-44</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>109</Customer_ID>
+<Customer_Credit_ID>109</Customer_Credit_ID>
+<Customer_Name>Vélos Bernard</Customer_Name>
+<Contact_First_Name>Marie</Contact_First_Name>
+<Contact_Last_Name>Cloutier</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8933.9</Last_Years_Sales>
+<Address1>145, rue Francois</Address1>
+<City>Toulon</City>
+<Region>Provence-Alpes-Côte d’Azur</Region>
+<Country>France</Country>
+<Postal_Code>83000</Postal_Code>
+<E-mail>Cloutier@jakartasunrise.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-55-56-58-00</Phone>
+<Fax>33-4-55-56-59-90</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>110</Customer_ID>
+<Customer_Credit_ID>110</Customer_Credit_ID>
+<Customer_Name>Sports Beauchamp</Customer_Name>
+<Contact_First_Name>Daniel</Contact_First_Name>
+<Contact_Last_Name>Beauchamp</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>9557.02</Last_Years_Sales>
+<Address1>81, rue des Roses</Address1>
+<City>Cannes</City>
+<Region>Provence-Alpes-Côte d’Azur</Region>
+<Country>France</Country>
+<Postal_Code>06400</Postal_Code>
+<E-mail>Beauchamp@hillcrestcycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>33-4-22-58-68-40</Phone>
+<Fax>33-4-22-58-68-41</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>111</Customer_ID>
+<Customer_Credit_ID>111</Customer_Credit_ID>
+<Customer_Name>Bikefest</Customer_Name>
+<Contact_First_Name>Stan</Contact_First_Name>
+<Contact_Last_Name>Delaware</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>5879.7</Last_Years_Sales>
+<Address1>4301 President Way</Address1>
+<Address2>4th Floor</Address2>
+<City>Little Rock</City>
+<Region>AR</Region>
+<Country>USA</Country>
+<Postal_Code>72206</Postal_Code>
+<E-mail>Delaware@greenlane.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>520-990-8264</Phone>
+<Fax>520-990-8260</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>112</Customer_ID>
+<Customer_Credit_ID>112</Customer_Credit_ID>
+<Customer_Name>Biking and Hiking</Customer_Name>
+<Contact_First_Name>Ukariah</Contact_First_Name>
+<Contact_Last_Name>Jonstone</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>65.7</Last_Years_Sales>
+<Address1>76 Palm Drive</Address1>
+<City>Phoenix</City>
+<Region>AZ</Region>
+<Country>USA</Country>
+<Postal_Code>85018</Postal_Code>
+<E-mail>Jonstone@dublincycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>520-710-1010</Phone>
+<Fax>520-605-8914</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>113</Customer_ID>
+<Customer_Credit_ID>113</Customer_Credit_ID>
+<Customer_Name>Bicycle Races</Customer_Name>
+<Contact_First_Name>Seth</Contact_First_Name>
+<Contact_Last_Name>Smithers</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>659.7</Last_Years_Sales>
+<Address1>3100 West Cactus Drive</Address1>
+<Address2>14th Floor</Address2>
+<City>Tempe</City>
+<Region>AZ</Region>
+<Country>USA</Country>
+<Postal_Code>85234</Postal_Code>
+<E-mail>Smithers@teavivoutdoors.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>602-494-2992</Phone>
+<Fax>602-494-3992</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>114</Customer_ID>
+<Customer_Credit_ID>114</Customer_Credit_ID>
+<Customer_Name>Fred&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Fred</Contact_First_Name>
+<Contact_Last_Name>Danforth</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>7874.25</Last_Years_Sales>
+<Address1>4104 Summit Boulevard</Address1>
+<City>Denver</City>
+<Region>CO</Region>
+<Country>USA</Country>
+<Postal_Code>80237</Postal_Code>
+<E-mail>Danforth@magazzini.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>303-556-2030</Phone>
+<Fax>303-556-3030</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>115</Customer_ID>
+<Customer_Credit_ID>115</Customer_Credit_ID>
+<Customer_Name>Phil&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Phil</Contact_First_Name>
+<Contact_Last_Name>Franklyn</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>27</Last_Years_Sales>
+<Address1>31 Government Street</Address1>
+<City>Concord</City>
+<Region>CT</Region>
+<Country>USA</Country>
+<Postal_Code>05667</Postal_Code>
+<E-mail>Franklyn@bresciamountainers.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>860-479-0191</Phone>
+<Fax>860-450-1030</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>116</Customer_ID>
+<Customer_Credit_ID>116</Customer_Credit_ID>
+<Customer_Name>Colin&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Colin</Contact_First_Name>
+<Contact_Last_Name>White</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>40.5</Last_Years_Sales>
+<Address1>30988 Federal Way</Address1>
+<City>Washington</City>
+<Region>DC</Region>
+<Country>USA</Country>
+<Postal_Code>20011</Postal_Code>
+<E-mail>White@milanobike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>202-975-1567</Phone>
+<Fax>202-979-1200</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>117</Customer_ID>
+<Customer_Credit_ID>117</Customer_Credit_ID>
+<Customer_Name>Barry&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Barry</Contact_First_Name>
+<Contact_Last_Name>Wilcox</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>33.9</Last_Years_Sales>
+<Address1>2099 East 57th Avenue</Address1>
+<City>Dover</City>
+<Region>DE</Region>
+<Country>USA</Country>
+<Postal_Code>19850</Postal_Code>
+<E-mail>Wilcox@cyclerome.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>302-310-1010</Phone>
+<Fax>302-310-1016</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>118</Customer_ID>
+<Customer_Credit_ID>118</Customer_Credit_ID>
+<Customer_Name>Tony&apos;s Better Bikes</Customer_Name>
+<Contact_First_Name>Anthony</Contact_First_Name>
+<Contact_Last_Name>Weatherhead</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2735.25</Last_Years_Sales>
+<Address1>320 Oliver Avenue East</Address1>
+<City>Atlanta</City>
+<Region>GA</Region>
+<Country>USA</Country>
+<Postal_Code>30337</Postal_Code>
+<E-mail>Weatherhead@islandbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>678-381-9020</Phone>
+<Fax>678-382-0404</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>119</Customer_ID>
+<Customer_Credit_ID>119</Customer_Credit_ID>
+<Customer_Name>Ride Down A Mountain</Customer_Name>
+<Contact_First_Name>Janet</Contact_First_Name>
+<Contact_Last_Name>Xavier</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>1570.08</Last_Years_Sales>
+<Address1>5400 Cliff Avenue</Address1>
+<City>Kansas City</City>
+<Region>KS</Region>
+<Country>USA</Country>
+<Postal_Code>64152</Postal_Code>
+<E-mail>Xavier@yokohamabiking.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>913-943-3044</Phone>
+<Fax>913-944-8922</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>120</Customer_ID>
+<Customer_Credit_ID>120</Customer_Credit_ID>
+<Customer_Name>Bikes R Us</Customer_Name>
+<Contact_First_Name>Wil</Contact_First_Name>
+<Contact_Last_Name>Do</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>8159.4</Last_Years_Sales>
+<Address1>201 Lloyd Drive</Address1>
+<City>Lexington</City>
+<Region>KY</Region>
+<Country>USA</Country>
+<Postal_Code>40503</Postal_Code>
+<E-mail>Do@.com@nogoya.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>606-771-9020</Phone>
+<Fax>606-772-9020</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>121</Customer_ID>
+<Customer_Credit_ID>121</Customer_Credit_ID>
+<Customer_Name>Caledonia Cycle</Customer_Name>
+<Contact_First_Name>Martin</Contact_First_Name>
+<Contact_Last_Name>Caledonia</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>27</Last_Years_Sales>
+<Address1>4302 233rd Street West</Address1>
+<City>New Orleans</City>
+<Region>LA</Region>
+<Country>USA</Country>
+<Postal_Code>70121</Postal_Code>
+<E-mail>Caledonia@totoryken.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>318-669-2323</Phone>
+<Fax>318-668-2323</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>122</Customer_ID>
+<Customer_Credit_ID>122</Customer_Credit_ID>
+<Customer_Name>First Gear</Customer_Name>
+<Contact_First_Name>Xena</Contact_First_Name>
+<Contact_Last_Name>Renfrew</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2826.9</Last_Years_Sales>
+<Address1>329 Fernando Court</Address1>
+<City>Baltimore</City>
+<Region>MD</Region>
+<Country>USA</Country>
+<Postal_Code>21228</Postal_Code>
+<E-mail>Renfrew@nishmotosports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>301-233-9010</Phone>
+<Fax>301-233-7402</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>123</Customer_ID>
+<Customer_Credit_ID>123</Customer_Credit_ID>
+<Customer_Name>One Track Mind</Customer_Name>
+<Contact_First_Name>Gordy</Contact_First_Name>
+<Contact_Last_Name>Camel</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>46.5</Last_Years_Sales>
+<Address1>776 Castle Road</Address1>
+<Address2>Suite 100</Address2>
+<City>Bangor</City>
+<Region>ME</Region>
+<Country>USA</Country>
+<Postal_Code>04401</Postal_Code>
+<E-mail>Camel@bendaimountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>207-881-7293</Phone>
+<Fax>207-881-2990</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>124</Customer_ID>
+<Customer_Credit_ID>124</Customer_Credit_ID>
+<Customer_Name>Biking Heaven</Customer_Name>
+<Contact_First_Name>Jules</Contact_First_Name>
+<Contact_Last_Name>Renquist</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>11553</Last_Years_Sales>
+<Address1>870 Oriole Drive East</Address1>
+<City>St. Louis</City>
+<Region>MO</Region>
+<Country>USA</Country>
+<Postal_Code>63119</Postal_Code>
+<E-mail>Renquist@nairobisports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>314-201-2044</Phone>
+<Fax>314-201-2045</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>125</Customer_ID>
+<Customer_Credit_ID>125</Customer_Credit_ID>
+<Customer_Name>Family Biking Center</Customer_Name>
+<Contact_First_Name>Vlad</Contact_First_Name>
+<Contact_Last_Name>Spiers</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>355.26</Last_Years_Sales>
+<Address1>5446 California Avenue West</Address1>
+<City>Jackson</City>
+<Region>MS</Region>
+<Country>USA</Country>
+<Postal_Code>39213</Postal_Code>
+<E-mail>Spiers@eurocycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>601-344-0292</Phone>
+<Fax>601-345-0292</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>126</Customer_ID>
+<Customer_Credit_ID>126</Customer_Credit_ID>
+<Customer_Name>World Of Tires</Customer_Name>
+<Contact_First_Name>Danielle</Contact_First_Name>
+<Contact_Last_Name>Rubens</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>413.85</Last_Years_Sales>
+<Address1>170 Mountainview Street</Address1>
+<Address2>Suite 25</Address2>
+<City>Helena</City>
+<Region>MT</Region>
+<Country>USA</Country>
+<Postal_Code>59601</Postal_Code>
+<E-mail>Rubens@klcc.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>406-887-2040</Phone>
+<Fax>406-887-2050</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>127</Customer_ID>
+<Customer_Credit_ID>127</Customer_Credit_ID>
+<Customer_Name>Oympic Bikes</Customer_Name>
+<Contact_First_Name>Aaron</Contact_First_Name>
+<Contact_Last_Name>Zalapski</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1036.2</Last_Years_Sales>
+<Address1>4311 Elm Drive</Address1>
+<City>Raleigh</City>
+<Region>NC</Region>
+<Country>USA</Country>
+<Postal_Code>27701</Postal_Code>
+<E-mail>Zalapski@bialex.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>919-301-5019</Phone>
+<Fax>919-301-5020</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>128</Customer_ID>
+<Customer_Credit_ID>128</Customer_Credit_ID>
+<Customer_Name>Bikes, Trikes and Rollerblades</Customer_Name>
+<Contact_First_Name>Glenda</Contact_First_Name>
+<Contact_Last_Name>Donnatelli</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>46.5</Last_Years_Sales>
+<Address1>12 Gordon Drive</Address1>
+<Address2>Suite 330</Address2>
+<City>Fargo</City>
+<Region>ND</Region>
+<Country>USA</Country>
+<Postal_Code>58103</Postal_Code>
+<E-mail>Donnatelli@geu.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>701-798-9122</Phone>
+<Fax>701-799-9125</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>129</Customer_ID>
+<Customer_Credit_ID>129</Customer_Credit_ID>
+<Customer_Name>Tears For Gears</Customer_Name>
+<Contact_First_Name>Samuel</Contact_First_Name>
+<Contact_Last_Name>Quaid</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>46.5</Last_Years_Sales>
+<Address1>1508 Renton Street</Address1>
+<City>Lincoln</City>
+<Region>NE</Region>
+<Country>USA</Country>
+<Postal_Code>68521</Postal_Code>
+<E-mail>Quaid@dmcity.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>402-697-7203</Phone>
+<Fax>402-698-7203</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>130</Customer_ID>
+<Customer_Credit_ID>130</Customer_Credit_ID>
+<Customer_Name>Bombay Bicycle Club</Customer_Name>
+<Contact_First_Name>Scott</Contact_First_Name>
+<Contact_Last_Name>Boswell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>14039.1</Last_Years_Sales>
+<Address1>421 West Orca Street</Address1>
+<City>Portsmouth</City>
+<Region>NH</Region>
+<Country>USA</Country>
+<Postal_Code>03103</Postal_Code>
+<E-mail>Boswell@tla.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>603-957-4932</Phone>
+<Fax>603-957-4940</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>131</Customer_ID>
+<Customer_Credit_ID>131</Customer_Credit_ID>
+<Customer_Name>Biking Bums</Customer_Name>
+<Contact_First_Name>Bobby</Contact_First_Name>
+<Contact_Last_Name>Bigglesworth</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>2781.6</Last_Years_Sales>
+<Address1>32011 Los Osos Boulevard</Address1>
+<Address2>Suite 790</Address2>
+<City>Taos</City>
+<Region>NM</Region>
+<Country>USA</Country>
+<Postal_Code>87505</Postal_Code>
+<E-mail>Bigglesworth@bdmc.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>505-554-5454</Phone>
+<Fax>505-554-5809</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>132</Customer_ID>
+<Customer_Credit_ID>132</Customer_Credit_ID>
+<Customer_Name>7 Bikes For 7 Brothers</Customer_Name>
+<Contact_First_Name>Brent</Contact_First_Name>
+<Contact_Last_Name>Cogswell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>52779 Xavier Boulevard</Address1>
+<City>Las Vegas</City>
+<Region>NV</Region>
+<Country>USA</Country>
+<Postal_Code>89102</Postal_Code>
+<E-mail>Cogswell@tlmonterrey.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>702-970-6155</Phone>
+<Fax>702-970-5517</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>133</Customer_ID>
+<Customer_Credit_ID>133</Customer_Credit_ID>
+<Customer_Name>Against The Wind Bikes</Customer_Name>
+<Contact_First_Name>Zak</Contact_First_Name>
+<Contact_Last_Name>Davis</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>2409.46</Last_Years_Sales>
+<Address1>5302 Freedom Way</Address1>
+<City>Rome</City>
+<Region>NY</Region>
+<Country>USA</Country>
+<Postal_Code>14817</Postal_Code>
+<E-mail>Davis@ucycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>607-901-2175</Phone>
+<Fax>607-901-2177</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>134</Customer_ID>
+<Customer_Credit_ID>134</Customer_Credit_ID>
+<Customer_Name>Hangin&apos; Two</Customer_Name>
+<Contact_First_Name>Jack</Contact_First_Name>
+<Contact_Last_Name>Trueman</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>72.9</Last_Years_Sales>
+<Address1>89 Westerly Street</Address1>
+<City>Tulsa</City>
+<Region>OK</Region>
+<Country>USA</Country>
+<Postal_Code>74103</Postal_Code>
+<E-mail>Trueman@ksports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>580-560-0293</Phone>
+<Fax>580-560-2932</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>135</Customer_ID>
+<Customer_Credit_ID>135</Customer_Credit_ID>
+<Customer_Name>Going in Circles</Customer_Name>
+<Contact_First_Name>Kent</Contact_First_Name>
+<Contact_Last_Name>Estes</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>7646.1</Last_Years_Sales>
+<Address1>42011 Sullivan Road</Address1>
+<City>Columbia</City>
+<Region>SC</Region>
+<Country>USA</Country>
+<Postal_Code>29201</Postal_Code>
+<E-mail>Estes@cccycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>843-721-9013</Phone>
+<Fax>843-727-9203</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>136</Customer_ID>
+<Customer_Credit_ID>136</Customer_Credit_ID>
+<Customer_Name>Off Road Bikes</Customer_Name>
+<Contact_First_Name>Swoozie</Contact_First_Name>
+<Contact_Last_Name>Fantermyer</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>140.9</Last_Years_Sales>
+<Address1>225 West Luxman Road</Address1>
+<Address2>Suite 120</Address2>
+<City>Pierre</City>
+<Region>SD</Region>
+<Country>USA</Country>
+<Postal_Code>52115</Postal_Code>
+<E-mail>Fantermyer@mountainview.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>605-201-6322</Phone>
+<Fax>605-201-9901</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>137</Customer_ID>
+<Customer_Credit_ID>137</Customer_Credit_ID>
+<Customer_Name>Cyclists for Life</Customer_Name>
+<Contact_First_Name>Brenda</Contact_First_Name>
+<Contact_Last_Name>Trent</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>10605.18</Last_Years_Sales>
+<Address1>666 Frederick Court</Address1>
+<City>Memphis</City>
+<Region>TN</Region>
+<Country>USA</Country>
+<Postal_Code>38103</Postal_Code>
+<E-mail>Trent@sportsfever.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>910-244-5670</Phone>
+<Fax>910-246-2042</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>138</Customer_ID>
+<Customer_Credit_ID>138</Customer_Credit_ID>
+<Customer_Name>Discount Bikes</Customer_Name>
+<Contact_First_Name>Andrea</Contact_First_Name>
+<Contact_Last_Name>Dixon</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1103.2</Last_Years_Sales>
+<Address1>3100 Tower Street</Address1>
+<City>Salt Lake City</City>
+<Region>UT</Region>
+<Country>USA</Country>
+<Postal_Code>84144</Postal_Code>
+<E-mail>Dixon@beachtrails.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>801-446-9300</Phone>
+<Fax>801-446-9301</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>139</Customer_ID>
+<Customer_Credit_ID>139</Customer_Credit_ID>
+<Customer_Name>Canadian Bikes, Eh</Customer_Name>
+<Contact_First_Name>Bob</Contact_First_Name>
+<Contact_Last_Name>Tuque</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>67.8</Last_Years_Sales>
+<Address1>56 Emarcadero Avenue</Address1>
+<Address2>Suite 10</Address2>
+<City>Richmond</City>
+<Region>VA</Region>
+<Country>USA</Country>
+<Postal_Code>23220</Postal_Code>
+<E-mail>Tuque@billsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>804-810-0002</Phone>
+<Fax>804-810-0002</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>140</Customer_ID>
+<Customer_Credit_ID>140</Customer_Credit_ID>
+<Customer_Name>Bob&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Bob</Contact_First_Name>
+<Contact_Last_Name>Zarcalister</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>67.8</Last_Years_Sales>
+<Address1>5011 Capital Avenue</Address1>
+<City>Montpelier</City>
+<Region>VT</Region>
+<Country>USA</Country>
+<Postal_Code>05401</Postal_Code>
+<E-mail>Zarcalister@forestedhills.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>802-338-6768</Phone>
+<Fax>802-338-6769</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>141</Customer_ID>
+<Customer_Credit_ID>141</Customer_Credit_ID>
+<Customer_Name>Mike&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Michael</Contact_First_Name>
+<Contact_Last_Name>Cartman</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>101.7</Last_Years_Sales>
+<Address1>3100 Aurora Avenue North</Address1>
+<Address2>Suite 1000</Address2>
+<City>Seattle</City>
+<Region>WA</Region>
+<Country>USA</Country>
+<Postal_Code>98110</Postal_Code>
+<E-mail>Cartman@.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>206-694-9012</Phone>
+<Fax>206-693-2323</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>142</Customer_ID>
+<Customer_Credit_ID>142</Customer_Credit_ID>
+<Customer_Name>Two Wheelin&apos;</Customer_Name>
+<Contact_First_Name>Jann</Contact_First_Name>
+<Contact_Last_Name>Dolap</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>556.35</Last_Years_Sales>
+<Address1>5007 White Street</Address1>
+<City>Charleston</City>
+<Region>WV</Region>
+<Country>USA</Country>
+<Postal_Code>25309</Postal_Code>
+<E-mail>Dolap@deportedperez.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>304-929-2882</Phone>
+<Fax>304-929-2888</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>143</Customer_ID>
+<Customer_Credit_ID>143</Customer_Credit_ID>
+<Customer_Name>Down Under Bikes</Customer_Name>
+<Contact_First_Name>Dave</Contact_First_Name>
+<Contact_Last_Name>Flynn</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1621.2</Last_Years_Sales>
+<Address1>8004 Alton Drive</Address1>
+<Address2>Suite 230</Address2>
+<City>Sydney</City>
+<Region>New South Wales</Region>
+<Country>Australia</Country>
+<Postal_Code>2061</Postal_Code>
+<E-mail>Flynn@towc.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-04-23556663</Phone>
+<Fax>61-04-23556422</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>144</Customer_ID>
+<Customer_Credit_ID>144</Customer_Credit_ID>
+<Customer_Name>Canberra Bikes</Customer_Name>
+<Contact_First_Name>Craig</Contact_First_Name>
+<Contact_Last_Name>Stobbs</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>10662.75</Last_Years_Sales>
+<Address1>7567 Caravan Street</Address1>
+<City>Canberra</City>
+<Region>New South Wales</Region>
+<Country>Australia</Country>
+<Postal_Code>5353</Postal_Code>
+<E-mail>Stobbs@platousport.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-03-99231124</Phone>
+<Fax>61-03-99231129</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>145</Customer_ID>
+<Customer_Credit_ID>145</Customer_Credit_ID>
+<Customer_Name>Kangeroo Trikes</Customer_Name>
+<Contact_First_Name>Sandra</Contact_First_Name>
+<Contact_Last_Name>Anderson</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>9594.7</Last_Years_Sales>
+<Address1>78 East Phillips Street</Address1>
+<Address2>Suite 300</Address2>
+<City>Melbourne</City>
+<Region>Victoria</Region>
+<Country>Australia</Country>
+<Postal_Code>2155</Postal_Code>
+<E-mail>Anderson@lbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-05-36629921</Phone>
+<Fax>61-05-36623420</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>146</Customer_ID>
+<Customer_Credit_ID>146</Customer_Credit_ID>
+<Customer_Name>Bruce&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Bruce</Contact_First_Name>
+<Contact_Last_Name>Hyde</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1138.09</Last_Years_Sales>
+<Address1>7910 35th Avenue</Address1>
+<City>Churchill</City>
+<Region>Victoria</Region>
+<Country>Australia</Country>
+<Postal_Code>4774</Postal_Code>
+<E-mail>Hyde@.erpanamacom</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-02-99311424</Phone>
+<Fax>61-02-99313434</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>147</Customer_ID>
+<Customer_Credit_ID>147</Customer_Credit_ID>
+<Customer_Name>Peddles of Perth</Customer_Name>
+<Contact_First_Name>Vanessa</Contact_First_Name>
+<Contact_Last_Name>Jacobsen</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>8945.25</Last_Years_Sales>
+<Address1>3200 Wilcrest Road</Address1>
+<Address2>Suite 300</Address2>
+<City>Perth</City>
+<Region>Western Australia</Region>
+<Country>Australia</Country>
+<Postal_Code>3326</Postal_Code>
+<E-mail>Jacobsen@lndeportes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-04-30339148</Phone>
+<Fax>61-04-30333433</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>148</Customer_ID>
+<Customer_Credit_ID>148</Customer_Credit_ID>
+<Customer_Name>Koala Road Bikes</Customer_Name>
+<Contact_First_Name>Nathan</Contact_First_Name>
+<Contact_Last_Name>Wu</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>6744.8</Last_Years_Sales>
+<Address1>3001 Grantsview Street</Address1>
+<Address2>Suite 12</Address2>
+<City>Brisbane</City>
+<Region>Queensland</Region>
+<Country>Australia</Country>
+<Postal_Code>4600</Postal_Code>
+<E-mail>Wu@manilabicycles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-01-52311344</Phone>
+<Fax>61-01-52314633</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>149</Customer_ID>
+<Customer_Credit_ID>149</Customer_Credit_ID>
+<Customer_Name>Tasmanian Devil Bikes</Customer_Name>
+<Contact_First_Name>Todd</Contact_First_Name>
+<Contact_Last_Name>Llyod</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1739.85</Last_Years_Sales>
+<Address1>12 Eastdune Lane</Address1>
+<City>Hobart</City>
+<Region>Tasmania</Region>
+<Country>Australia</Country>
+<Postal_Code>0912</Postal_Code>
+<E-mail>Llyod@warsawsports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>61-01-32335455</Phone>
+<Fax>61-01-32335433</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>150</Customer_ID>
+<Customer_Credit_ID>150</Customer_Credit_ID>
+<Customer_Name>Bicicletas San Santiago</Customer_Name>
+<Contact_First_Name>Ricardo</Contact_First_Name>
+<Contact_Last_Name>Fernandes</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Associate</Contact_Position>
+<Last_Years_Sales>10661.7</Last_Years_Sales>
+<Address1>32111 Perez Road</Address1>
+<City>Santiago</City>
+<Region>Providencia</Region>
+<Country>Chile</Country>
+<Postal_Code>34211</Postal_Code>
+<E-mail>Fernandes@souzelbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>56-2-2942-9021</Phone>
+<Fax>56-2-2942-9009</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>151</Customer_ID>
+<Customer_Credit_ID>151</Customer_Credit_ID>
+<Customer_Name>Paradise Sports</Customer_Name>
+<Contact_First_Name>Johnny</Contact_First_Name>
+<Contact_Last_Name>Horton</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1529.7</Last_Years_Sales>
+<Address1>444 Victoria Avenue</Address1>
+<City>Road Town</City>
+<Region>Tortola</Region>
+<Country>British Virgin Islands</Country>
+<Postal_Code>F3R 6T9</Postal_Code>
+<E-mail>Horton@evorafamily.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>284-987-4738</Phone>
+<Fax>284-987-4740</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>152</Customer_ID>
+<Customer_Credit_ID>152</Customer_Credit_ID>
+<Customer_Name>Brasilia Bikes Inc.</Customer_Name>
+<Contact_First_Name>Felipe</Contact_First_Name>
+<Contact_Last_Name>Silva</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>14301.7</Last_Years_Sales>
+<Address1>Rua Fernando, 991</Address1>
+<Address2>Suite 223</Address2>
+<City>Brasilia</City>
+<Region>Distrito Federal</Region>
+<Country>Brazil</Country>
+<Postal_Code>23293-300</Postal_Code>
+<E-mail>Silva@lisboncycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-85-3211-7382</Phone>
+<Fax>55-85-3211-7342</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>153</Customer_ID>
+<Customer_Credit_ID>153</Customer_Credit_ID>
+<Customer_Name>Bicicletas de Montaña La Paz</Customer_Name>
+<Contact_First_Name>Juan</Contact_First_Name>
+<Contact_Last_Name>Gomez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6269.25</Last_Years_Sales>
+<Address1>Torrevieja 1030</Address1>
+<City>La Paz</City>
+<Region>La Paz</Region>
+<Country>Bolivia</Country>
+<Postal_Code>4542</Postal_Code>
+<E-mail>Gomez@furia.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-092-89211</Phone>
+<Fax>55-092-89201</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>154</Customer_ID>
+<Customer_Credit_ID>154</Customer_Credit_ID>
+<Customer_Name>Royal Cycle</Customer_Name>
+<Contact_First_Name>Henryk</Contact_First_Name>
+<Contact_Last_Name>Featherstone</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3493.65</Last_Years_Sales>
+<Address1>5402 Green Bay Road</Address1>
+<Address2>Suite 500</Address2>
+<City>Hamilton</City>
+<Region>Pembroke Parish</Region>
+<Country>Bermuda</Country>
+<Postal_Code>46557</Postal_Code>
+<E-mail>Featherstone@budapestsports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>809-295-9023</Phone>
+<Fax>809-295-6944</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>155</Customer_ID>
+<Customer_Credit_ID>155</Customer_Credit_ID>
+<Customer_Name>Dhaka Bike Store</Customer_Name>
+<Contact_First_Name>Junaid</Contact_First_Name>
+<Contact_Last_Name>Panikkar</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>4683.5</Last_Years_Sales>
+<Address1>670/C Tejgaon I/A4350</Address1>
+<City>Dhaka</City>
+<Region>Dhaka</Region>
+<Country>Bangladesh</Country>
+<Postal_Code>346457</Postal_Code>
+<E-mail>Panikkar@moscowbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>880-91-478-343</Phone>
+<Fax>880-91-478-928</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>156</Customer_ID>
+<Customer_Credit_ID>156</Customer_Credit_ID>
+<Customer_Name>Beach Cycle and Sport</Customer_Name>
+<Contact_First_Name>Warren</Contact_First_Name>
+<Contact_Last_Name>Donovan</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>14463.35</Last_Years_Sales>
+<Address1>779 Beach Drive</Address1>
+<City>Nassau</City>
+<Region>New Providence</Region>
+<Country>Bahamas</Country>
+<Postal_Code>5466</Postal_Code>
+<E-mail>Donovan@foreveryoung.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>242-0-343-3043</Phone>
+<Fax>242-0-343-3034</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>157</Customer_ID>
+<Customer_Credit_ID>157</Customer_Credit_ID>
+<Customer_Name>Aruba Sport</Customer_Name>
+<Contact_First_Name>Jerry</Contact_First_Name>
+<Contact_Last_Name>Cashwell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3239.85</Last_Years_Sales>
+<Address1>Av. Cobre 1212</Address1>
+<City>Oranjestad</City>
+<Region>St. George</Region>
+<Country>Aruba</Country>
+<Postal_Code>655456</Postal_Code>
+<E-mail>Cashwell.@saveoncycles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>58-09-8382-9292</Phone>
+<Fax>58-09-8382-9299</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>158</Customer_ID>
+<Customer_Credit_ID>158</Customer_Credit_ID>
+<Customer_Name>Bicicletas Buenos Aires</Customer_Name>
+<Contact_First_Name>Carlos</Contact_First_Name>
+<Contact_Last_Name>Martinez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>55664.35</Last_Years_Sales>
+<Address1>Sitio del Niño 8992</Address1>
+<City>Buenos Aires</City>
+<Region>Mendoza</Region>
+<Country>Argentina</Country>
+<Postal_Code>6755 56</Postal_Code>
+<E-mail>Martinez@platinumsports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>54-1-939-202022</Phone>
+<Fax>54-1-939-202029</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>159</Customer_ID>
+<Customer_Credit_ID>159</Customer_Credit_ID>
+<Customer_Name>Barbados Sports, Ltd.</Customer_Name>
+<Contact_First_Name>Luke</Contact_First_Name>
+<Contact_Last_Name>Jones</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>4443.8</Last_Years_Sales>
+<Address1>450 Wilmont Street</Address1>
+<City>Bridgetown</City>
+<Region>Bridgetown</Region>
+<Country>Barbados</Country>
+<Postal_Code>4532</Postal_Code>
+<E-mail>Jones@fastmover.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>246-877-2628</Phone>
+<Fax>246-876-0284</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>160</Customer_ID>
+<Customer_Credit_ID>160</Customer_Credit_ID>
+<Customer_Name>Pedales de Bogota</Customer_Name>
+<Contact_First_Name>Fernando</Contact_First_Name>
+<Contact_Last_Name>Valdez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>32748.25</Last_Years_Sales>
+<Address1>Vía Morelos 10001</Address1>
+<City>Bogota</City>
+<Region>Cundinamarca</Region>
+<Country>Colombia</Country>
+<Postal_Code>43533</Postal_Code>
+<E-mail>Valdez@unitedbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>57-32-2029-2949</Phone>
+<Fax>57-32-2029-2923</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>161</Customer_ID>
+<Customer_Credit_ID>161</Customer_Credit_ID>
+<Customer_Name>Galaxy Outdoors</Customer_Name>
+<Contact_First_Name>Jimmy</Contact_First_Name>
+<Contact_Last_Name>Ng</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>10425.55</Last_Years_Sales>
+<Address1>127-190 Nathan Road</Address1>
+<Address2>Mon Kwok</Address2>
+<City>Hong Kong SAR</City>
+<Region>Hong Kong SAR</Region>
+<Country>China</Country>
+<Postal_Code>664463</Postal_Code>
+<E-mail>Ng@jrbiking.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>852-6274-9201</Phone>
+<Fax>852-6274-9297</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>162</Customer_ID>
+<Customer_Credit_ID>162</Customer_Credit_ID>
+<Customer_Name>East Budapest Sports</Customer_Name>
+<Contact_First_Name>Marianna</Contact_First_Name>
+<Contact_Last_Name>Chose</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>59255.7</Last_Years_Sales>
+<Address1>3424 Budapest, Bartók Béla út 231</Address1>
+<City>Budapest</City>
+<Region>Budapest</Region>
+<Country>Hungary</Country>
+<Postal_Code>1062</Postal_Code>
+<E-mail>Chose@sanstone.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>32-20-9402-4994</Phone>
+<Fax>32-20-9402-4995</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>163</Customer_ID>
+<Customer_Credit_ID>163</Customer_Credit_ID>
+<Customer_Name>India Cycle and Co.</Customer_Name>
+<Contact_First_Name>Paja</Contact_First_Name>
+<Contact_Last_Name>Al Majid</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>49774.5</Last_Years_Sales>
+<Address1>H.O.- 2370 Janpath</Address1>
+<City>New Delhi</City>
+<Region>New Delhi</Region>
+<Country>India</Country>
+<Postal_Code>3257</Postal_Code>
+<E-mail>Al Majid@heuristic.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>91-22-4002-0322</Phone>
+<Fax>91-22-4002-0333</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>164</Customer_ID>
+<Customer_Credit_ID>164</Customer_Credit_ID>
+<Customer_Name>Jakarta Sunrise Sports</Customer_Name>
+<Contact_First_Name>Wu</Contact_First_Name>
+<Contact_Last_Name>Padang</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6333.4</Last_Years_Sales>
+<Address1>Jl Aipda KS Tubun 56 F</Address1>
+<City>Jakarta</City>
+<Region>Jawa Bara West Java</Region>
+<Country>Indonesia</Country>
+<Postal_Code>4532</Postal_Code>
+<E-mail>Padang@ministrysports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>62-21-093-0223</Phone>
+<Fax>62-21-093-0229</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>165</Customer_ID>
+<Customer_Credit_ID>165</Customer_Credit_ID>
+<Customer_Name>Hillcrest Cycle</Customer_Name>
+<Contact_First_Name>Lenny</Contact_First_Name>
+<Contact_Last_Name>Kenwood</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>87906.45</Last_Years_Sales>
+<Address1>22 Green Avenue</Address1>
+<City>Dublin</City>
+<Region>Dublin</Region>
+<Country>Ireland</Country>
+<E-mail>Kenwood@equatorcycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>353-01-3932-0422</Phone>
+<Fax>353-01-3932-0443</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>166</Customer_ID>
+<Customer_Credit_ID>166</Customer_Credit_ID>
+<Customer_Name>Island Bikes</Customer_Name>
+<Contact_First_Name>Jerry</Contact_First_Name>
+<Contact_Last_Name>Andover</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>38244.25</Last_Years_Sales>
+<Address1>3411 Bexhill Road</Address1>
+<City>Kingston</City>
+<Region>Kingston</Region>
+<Country>Jamaica</Country>
+<Postal_Code>23001</Postal_Code>
+<E-mail>Andover@tomsplace.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>876-733-0062</Phone>
+<Fax>876-733-9221</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>167</Customer_ID>
+<Customer_Credit_ID>167</Customer_Credit_ID>
+<Customer_Name>Nishimoto Sports</Customer_Name>
+<Contact_First_Name>Hiro</Contact_First_Name>
+<Contact_Last_Name>Nishimoto</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>40964.74</Last_Years_Sales>
+<Address1>Bridgeway Bldg, 2F</Address1>
+<Address2>Hirakawa-cho</Address2>
+<City>Tokyo</City>
+<Region>Tokyo To</Region>
+<Country>Japan</Country>
+<Postal_Code>129-2323</Postal_Code>
+<E-mail>Nishimoto@hikersbikers.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>81-3-5212-2321</Phone>
+<Fax>81-3-5212-0327</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>168</Customer_ID>
+<Customer_Credit_ID>168</Customer_Credit_ID>
+<Customer_Name>Nairobi Sports Center</Customer_Name>
+<Contact_First_Name>Ren</Contact_First_Name>
+<Contact_Last_Name>Janmohammed</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6923.7</Last_Years_Sales>
+<Address1>3451 Parliament Road</Address1>
+<City>Nairobi</City>
+<Region>Nairobi</Region>
+<Country>Kenya</Country>
+<Postal_Code>646411</Postal_Code>
+<E-mail>Janmohammed@coastalline.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>254-2-202-4921</Phone>
+<Fax>254-2-202-4934</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>169</Customer_ID>
+<Customer_Credit_ID>169</Customer_Credit_ID>
+<Customer_Name>Cairo Bicycles, Inc.</Customer_Name>
+<Contact_First_Name>Elan</Contact_First_Name>
+<Contact_Last_Name>Abbibi</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>10361.7</Last_Years_Sales>
+<Address1>PO Box: 33417</Address1>
+<City>Cairo</City>
+<Region>Cairo</Region>
+<Country>Egypt</Country>
+<Postal_Code>786333</Postal_Code>
+<E-mail>Abbibi@tienda.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>20-023-023114</Phone>
+<Fax>20-023-023143</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>170</Customer_ID>
+<Customer_Credit_ID>170</Customer_Credit_ID>
+<Customer_Name>Ruedas de Santo Domingo</Customer_Name>
+<Contact_First_Name>Antonio</Contact_First_Name>
+<Contact_Last_Name>Santos</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>63365.4</Last_Years_Sales>
+<Address1>Seminario 5531 Carretas</Address1>
+<City>Santo Domingo</City>
+<Region>Santo Domingo</Region>
+<Country>Dominican Republic</Country>
+<Postal_Code>685533</Postal_Code>
+<E-mail>Santos@folkochfa.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>809-203-203</Phone>
+<Fax>809-233-232</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>171</Customer_ID>
+<Customer_Credit_ID>171</Customer_Credit_ID>
+<Customer_Name>Bicicletas San Jose</Customer_Name>
+<Contact_First_Name>Julio</Contact_First_Name>
+<Contact_Last_Name>Morenzo</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>56343.9</Last_Years_Sales>
+<Address1>Agustín de Iturbide 772</Address1>
+<City>San José</City>
+<Region>San José</Region>
+<Country>Costa Rica</Country>
+<Postal_Code>45678</Postal_Code>
+<E-mail>Morenzo@sab.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>506-239-0932</Phone>
+<Fax>506-239-0939</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>172</Customer_ID>
+<Customer_Credit_ID>172</Customer_Credit_ID>
+<Customer_Name>Prague Sports</Customer_Name>
+<Contact_First_Name>Eric</Contact_First_Name>
+<Contact_Last_Name>Kenelek</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>10551.7</Last_Years_Sales>
+<Address1>PO Box 2321</Address1>
+<City>Prague</City>
+<Region>Prague</Region>
+<Country>Czech Republic</Country>
+<Postal_Code>9864</Postal_Code>
+<E-mail>Kenelek@taipeisports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>420-002-2042</Phone>
+<Fax>420-002-2044</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>173</Customer_ID>
+<Customer_Credit_ID>173</Customer_Credit_ID>
+<Customer_Name>Copenhagen Sports and Cycle</Customer_Name>
+<Contact_First_Name>Sven</Contact_First_Name>
+<Contact_Last_Name>Van Bauer</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>97459.7</Last_Years_Sales>
+<Address1>Gammel Mont 4341</Address1>
+<City>Copenhagen</City>
+<Region>Jutland</Region>
+<Country>Denmark</Country>
+<Postal_Code>1050</Postal_Code>
+<E-mail>Van Bauer@bangkiksports.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>45-3530-3055</Phone>
+<Fax>45-3530-3034</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>174</Customer_ID>
+<Customer_Credit_ID>174</Customer_Credit_ID>
+<Customer_Name>Superbicicletas Ecuador Ltd.</Customer_Name>
+<Contact_First_Name>Ricardo</Contact_First_Name>
+<Contact_Last_Name>Martinez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2553.8</Last_Years_Sales>
+<Address1>Ejército Nacional No. 1450</Address1>
+<City>Quito</City>
+<Region>Pichincha</Region>
+<Country>Ecuador</Country>
+<Postal_Code>755457</Postal_Code>
+<E-mail>Martinez@ankarabicycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>593-3-303-200</Phone>
+<Fax>593-3-303-211</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>175</Customer_ID>
+<Customer_Credit_ID>175</Customer_Credit_ID>
+<Customer_Name>Athens Bicycle Co.</Customer_Name>
+<Contact_First_Name>Andres</Contact_First_Name>
+<Contact_Last_Name>Arnadis</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>11100.9</Last_Years_Sales>
+<Address1>PO Box 211966</Address1>
+<City>Athens</City>
+<Region>Evia Evvoia</Region>
+<Country>Greece</Country>
+<Postal_Code>1124</Postal_Code>
+<E-mail>Arnadis@kiev-north.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>30-1-7754-4040</Phone>
+<Fax>30-1-7754-4041</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>176</Customer_ID>
+<Customer_Credit_ID>176</Customer_Credit_ID>
+<Customer_Name>Tel Aviv Outdoors</Customer_Name>
+<Contact_First_Name>David</Contact_First_Name>
+<Contact_Last_Name>Azur</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>43063.56</Last_Years_Sales>
+<Address1>3435 Tel Giborim</Address1>
+<City>Tel Aviv</City>
+<Region>Tel Aviv</Region>
+<Country>Israel</Country>
+<Postal_Code>6799</Postal_Code>
+<E-mail>Azur@uaecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>972-3-403-30411</Phone>
+<Fax>972-3-403-30234</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>177</Customer_ID>
+<Customer_Credit_ID>177</Customer_Credit_ID>
+<Customer_Name>En ruedas Panama</Customer_Name>
+<Contact_First_Name>Fernando</Contact_First_Name>
+<Contact_Last_Name>Perez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>2934.94</Last_Years_Sales>
+<Address1>Cl 20 San Francisco 91</Address1>
+<City>Panama</City>
+<Region>Panama</Region>
+<Country>Panama</Country>
+<Postal_Code>346668</Postal_Code>
+<E-mail>Perez@karmabikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>507-023-0031</Phone>
+<Fax>507-023-0023</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>178</Customer_ID>
+<Customer_Credit_ID>178</Customer_Credit_ID>
+<Customer_Name>Islamabad Bike Stores</Customer_Name>
+<Contact_First_Name>Sanji</Contact_First_Name>
+<Contact_Last_Name>Jamal</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>5486.7</Last_Years_Sales>
+<Address1>423, Shah Jamal Road</Address1>
+<City>Islamabad</City>
+<Region>Islamabad</Region>
+<Country>Pakistan</Country>
+<Postal_Code>4346</Postal_Code>
+<E-mail>Jamal@backpedalcycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>92-21-2000-0294</Phone>
+<Fax>92-21-2000-0234</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>179</Customer_ID>
+<Customer_Credit_ID>179</Customer_Credit_ID>
+<Customer_Name>Manila Bicycle Store</Customer_Name>
+<Contact_First_Name>Maria</Contact_First_Name>
+<Contact_Last_Name>Hernandez</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>11300.7</Last_Years_Sales>
+<Address1>43121 Quezon Avenue</Address1>
+<City>Manila</City>
+<Region>Manila Metropolitan Area</Region>
+<Country>Philippines</Country>
+<Postal_Code>34008</Postal_Code>
+<E-mail>Hernandez@tyredout.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>63-455-303-0221</Phone>
+<Fax>63-455-303-0223</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>180</Customer_ID>
+<Customer_Credit_ID>180</Customer_Credit_ID>
+<Customer_Name>Deportes Perez</Customer_Name>
+<Contact_First_Name>Paolo</Contact_First_Name>
+<Contact_Last_Name>Perez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>7645.85</Last_Years_Sales>
+<Address1>Avda. Amador Guerrero, 3220</Address1>
+<City>Managua</City>
+<Region>Managua</Region>
+<Country>Nicaragua</Country>
+<Postal_Code>4524576</Postal_Code>
+<E-mail>Perez@hasbeenbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>505-311-403-0082</Phone>
+<Fax>505-311-403-0098</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>181</Customer_ID>
+<Customer_Credit_ID>181</Customer_Credit_ID>
+<Customer_Name>Sports Fever</Customer_Name>
+<Contact_First_Name>Duke</Contact_First_Name>
+<Contact_Last_Name>Manson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>43321.5</Last_Years_Sales>
+<Address1>1102 Greystone Drive</Address1>
+<City>Wellington</City>
+<Region>Wellington</Region>
+<Country>New Zealand</Country>
+<E-mail>Manson@cycliststrail.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-7-3903-4003</Phone>
+<Fax>64-7-3903-4004</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>182</Customer_ID>
+<Customer_Credit_ID>182</Customer_Credit_ID>
+<Customer_Name>Kathmandu Sports</Customer_Name>
+<Contact_First_Name>Ngan</Contact_First_Name>
+<Contact_Last_Name>Xu</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>7613.4</Last_Years_Sales>
+<Address1>4325 Tielu Street</Address1>
+<City>Kathmandu</City>
+<Region>Kathmandu</Region>
+<Country>Nepal</Country>
+<Postal_Code>7493</Postal_Code>
+<E-mail>Xu@dealsonwheels.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>977-099-20332</Phone>
+<Fax>977-099-23444</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>183</Customer_ID>
+<Customer_Credit_ID>183</Customer_Credit_ID>
+<Customer_Name>Lima Norte Deportes</Customer_Name>
+<Contact_First_Name>Ricardo</Contact_First_Name>
+<Contact_Last_Name>Montabella</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>26934.5</Last_Years_Sales>
+<Address1>Av El Dorado, 4211</Address1>
+<City>Lima</City>
+<Region>Lima</Region>
+<Country>Peru</Country>
+<Postal_Code>5665</Postal_Code>
+<E-mail>Montabella@ourwheels.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>51-1-2042-2043</Phone>
+<Fax>51-1-2042-2049</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>184</Customer_ID>
+<Customer_Credit_ID>184</Customer_Credit_ID>
+<Customer_Name>Eurocycle</Customer_Name>
+<Contact_First_Name>Pierre</Contact_First_Name>
+<Contact_Last_Name>Van Kroger</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>6835.2</Last_Years_Sales>
+<Address1>39, rue du Baerendal</Address1>
+<City>Luxembourg</City>
+<Region>Luxembourg</Region>
+<Country>Luxembourg</Country>
+<Postal_Code>L-3360</Postal_Code>
+<E-mail>Van Kroger@radbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>352-45-204-203</Phone>
+<Fax>352-45-204-210</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>185</Customer_ID>
+<Customer_Credit_ID>185</Customer_Credit_ID>
+<Customer_Name>Kuala Lumpur Central Cycle</Customer_Name>
+<Contact_First_Name>Rennie</Contact_First_Name>
+<Contact_Last_Name>Chung</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3985.13</Last_Years_Sales>
+<Address1>No. 4902 Lengkok Paya Terubong,</Address1>
+<Address2>11060 Air Itam</Address2>
+<City>Kuala Lumpur</City>
+<Region>Kuala Lumpur</Region>
+<Country>Malaysia</Country>
+<Postal_Code>478886</Postal_Code>
+<E-mail>Chung@insanecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>60-3-0303-0990</Phone>
+<Fax>60-3-0303-0922</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>186</Customer_ID>
+<Customer_Credit_ID>186</Customer_Credit_ID>
+<Customer_Name>Ulaanbaatar Cycle</Customer_Name>
+<Contact_First_Name>Po-Yan</Contact_First_Name>
+<Contact_Last_Name>Ying</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5223.5</Last_Years_Sales>
+<Address1>8-9/F Fu Da Bidg. 2342</Address1>
+<City>Ulaanbaatar</City>
+<Region>Ulaanbaatar</Region>
+<Country>Mongolia</Country>
+<E-mail>mgr@wheels.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>976-1-392-2492</Phone>
+<Fax>976-1-392-2423</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>187</Customer_ID>
+<Customer_Credit_ID>187</Customer_Credit_ID>
+<Customer_Name>Deportes Mexico City</Customer_Name>
+<Contact_First_Name>Julio</Contact_First_Name>
+<Contact_Last_Name>Estes</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1445.1</Last_Years_Sales>
+<Address1>Vía Morelos 3343</Address1>
+<City>Ciudad de Mexico</City>
+<Region>Distrito Federal</Region>
+<Country>Mexico</Country>
+<Postal_Code>24421</Postal_Code>
+<E-mail>Estes@spokesnwheels.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-3-230-9993</Phone>
+<Fax>52-3-230-9343</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>188</Customer_ID>
+<Customer_Credit_ID>188</Customer_Credit_ID>
+<Customer_Name>Forever Young Sports</Customer_Name>
+<Contact_First_Name>Cam</Contact_First_Name>
+<Contact_Last_Name>Jackson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>23180.1</Last_Years_Sales>
+<Address1>5011 Sunset Avenue West</Address1>
+<Address2>Suite 132</Address2>
+<City>Castries</City>
+<Region>Castries</Region>
+<Country>Saint Lucia</Country>
+<Postal_Code>3342</Postal_Code>
+<E-mail>Jackson@posercycles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>758-422-092</Phone>
+<Fax>758-422-099</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>189</Customer_ID>
+<Customer_Credit_ID>189</Customer_Credit_ID>
+<Customer_Name>Equator Cycle</Customer_Name>
+<Contact_First_Name>Chuck</Contact_First_Name>
+<Contact_Last_Name>Van Morrison</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>56500.55</Last_Years_Sales>
+<Address1>53990 Sable Court</Address1>
+<City>Pretoria</City>
+<Region>Gauteng (PWV)</Region>
+<Country>South Africa</Country>
+<Postal_Code>2341</Postal_Code>
+<E-mail>Van Morrison@bikecellar.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>27-11-234-0400</Phone>
+<Fax>27-11-234-0440</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>190</Customer_ID>
+<Customer_Credit_ID>190</Customer_Credit_ID>
+<Customer_Name>Ankara Bicycle Company</Customer_Name>
+<Contact_First_Name>Fatih</Contact_First_Name>
+<Contact_Last_Name>Cekirge</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>43000.5</Last_Years_Sales>
+<Address1>PO Box 2121</Address1>
+<City>Ankara</City>
+<Region>Ankara</Region>
+<Country>Turkey</Country>
+<Postal_Code>443665</Postal_Code>
+<E-mail>Cekirge@alleycat.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>90-212-2399-3403</Phone>
+<Fax>90-212-2399-0093</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>191</Customer_ID>
+<Customer_Credit_ID>191</Customer_Credit_ID>
+<Customer_Name>Moscow Bike Company</Customer_Name>
+<Contact_First_Name>Alex</Contact_First_Name>
+<Contact_Last_Name>Federov</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>43786.5</Last_Years_Sales>
+<Address1>Perovskaya ul., 3452</Address1>
+<City>Moscow</City>
+<Region>Moscow</Region>
+<Country>Russia</Country>
+<Postal_Code>7655433</Postal_Code>
+<E-mail>Federov@cgate.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>7-095-2349-2042</Phone>
+<Fax>7-095-2349-2991</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>192</Customer_ID>
+<Customer_Credit_ID>192</Customer_Credit_ID>
+<Customer_Name>Sanstone Cycle</Customer_Name>
+<Contact_First_Name>Young</Contact_First_Name>
+<Contact_Last_Name>Lee</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>3300</Last_Years_Sales>
+<Address1>24 Evergreen Square</Address1>
+<Address2>Suite B</Address2>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>311435</Postal_Code>
+<E-mail>Lee@hookedhelmet.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-321-0072</Phone>
+<Fax>65-321-4545</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>193</Customer_ID>
+<Customer_Credit_ID>193</Customer_Credit_ID>
+<Customer_Name>Budapest Sports</Customer_Name>
+<Contact_First_Name>Dario</Contact_First_Name>
+<Contact_Last_Name>Ionascu</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>23246.55</Last_Years_Sales>
+<Address1>Blvd. N. Balcescu 2322</Address1>
+<City>Bucharest</City>
+<Region>Bucharesti</Region>
+<Country>Romania</Country>
+<Postal_Code>4532211</Postal_Code>
+<E-mail>Ionascu@clearairtrans.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>40-1-2332-8585</Phone>
+<Fax>40-1-2332-8580</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>194</Customer_ID>
+<Customer_Credit_ID>194</Customer_Credit_ID>
+<Customer_Name>Save-on-Cycles</Customer_Name>
+<Contact_First_Name>Julianne</Contact_First_Name>
+<Contact_Last_Name>Derby</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>70000</Last_Years_Sales>
+<Address1>245 Mill Avenue</Address1>
+<City>Riyadh</City>
+<Region>Eastern Province</Region>
+<Country>Saudi Arabia</Country>
+<Postal_Code>3634422</Postal_Code>
+<E-mail>Derby@whistlertrntals.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>966-1-3404-3941</Phone>
+<Fax>966-1-3404-3979</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>195</Customer_ID>
+<Customer_Credit_ID>195</Customer_Credit_ID>
+<Customer_Name>Bangkok Sports</Customer_Name>
+<Contact_First_Name>Lee</Contact_First_Name>
+<Contact_Last_Name>Chang</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>70000.5</Last_Years_Sales>
+<Address1>133/7 Yaowarat Road</Address1>
+<City>Bangkok</City>
+<Region>Bangkok</Region>
+<Country>Thailand</Country>
+<Postal_Code>6865</Postal_Code>
+<E-mail>Chang@trailblazers.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>66-2-9400-2022</Phone>
+<Fax>66-2-9400-2322</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>196</Customer_ID>
+<Customer_Credit_ID>196</Customer_Credit_ID>
+<Customer_Name>Hanoi Bike Company</Customer_Name>
+<Contact_First_Name>Twan</Contact_First_Name>
+<Contact_Last_Name>Ha</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>15492.32</Last_Years_Sales>
+<Address1>Ho Chi Minh 3411</Address1>
+<City>Hanoi</City>
+<Region>Hanoi</Region>
+<Country>Vietnam</Country>
+<Postal_Code>43HJG</Postal_Code>
+<E-mail>Ha@bikesntrikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>84-4-992-20202</Phone>
+<Fax>84-4-992-20234</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>197</Customer_ID>
+<Customer_Credit_ID>197</Customer_Credit_ID>
+<Customer_Name>Tienda de Repuestos Caracas</Customer_Name>
+<Contact_First_Name>Maria</Contact_First_Name>
+<Contact_Last_Name>Santos</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>36000</Last_Years_Sales>
+<Address1>Av San Jorge 2011</Address1>
+<City>Caracas</City>
+<Region>Distrito Federal</Region>
+<Country>Venezuela</Country>
+<Postal_Code>32111</Postal_Code>
+<E-mail>Santos@rockshocks.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>58-2-3434-7728</Phone>
+<Fax>58-2-3434-7771</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>198</Customer_ID>
+<Customer_Credit_ID>198</Customer_Credit_ID>
+<Customer_Name>UAE Cycle</Customer_Name>
+<Contact_First_Name>Vivek</Contact_First_Name>
+<Contact_Last_Name>Parmar</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>95900.85</Last_Years_Sales>
+<Address1>Post Box: 278</Address1>
+<City>Abu Dhabi</City>
+<Region>Abu Dhabi</Region>
+<Country>United Arab Emirates</Country>
+<Postal_Code>3453</Postal_Code>
+<E-mail>Parmar@mountainmadmen.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>971-4-9673-9987</Phone>
+<Fax>971-4-9673-9997</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>199</Customer_ID>
+<Customer_Credit_ID>199</Customer_Credit_ID>
+<Customer_Name>Harare Cycle</Customer_Name>
+<Contact_First_Name>Dwight</Contact_First_Name>
+<Contact_Last_Name>Mallel</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>22600.23</Last_Years_Sales>
+<Address1>4290 Shell Aveneue</Address1>
+<City>Harare</City>
+<Region>Distrito Federal</Region>
+<Country>Zimbabwe</Country>
+<Postal_Code>403943</Postal_Code>
+<E-mail>Mallel@offroadbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>263-4-943-9034</Phone>
+<Fax>263-4-943-9035</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>201</Customer_ID>
+<Customer_Credit_ID>201</Customer_Credit_ID>
+<Customer_Name>Kiev-North Sports</Customer_Name>
+<Contact_First_Name>Leon</Contact_First_Name>
+<Contact_Last_Name>Demidov</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>84500.55</Last_Years_Sales>
+<Address1>Krzhizhanovskogo ul., 5663</Address1>
+<City>Kiev</City>
+<Region>Kiev</Region>
+<Country>Ukraine</Country>
+<Postal_Code>6865986</Postal_Code>
+<E-mail>Demidov@psychocycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>380-44-923-2302</Phone>
+<Fax>380-44-923-2345</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>202</Customer_ID>
+<Customer_Credit_ID>202</Customer_Credit_ID>
+<Customer_Name>Sunrise Cycle</Customer_Name>
+<Contact_First_Name>Josephine</Contact_First_Name>
+<Contact_Last_Name>McGillan</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1690.05</Last_Years_Sales>
+<Address1>40 Chartwell Drive</Address1>
+<City>Ashford</City>
+<Region>Kent</Region>
+<Country>England</Country>
+<Postal_Code>BH7 7EL</Postal_Code>
+<E-mail>McGillan@bikeaholics.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-135-342-2932</Phone>
+<Fax>44-135-342-2922</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>203</Customer_ID>
+<Customer_Credit_ID>203</Customer_Credit_ID>
+<Customer_Name>Source One Cycle</Customer_Name>
+<Contact_First_Name>Tina</Contact_First_Name>
+<Contact_Last_Name>Waldorf</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>1119.5</Last_Years_Sales>
+<Address1>19 Old Christchurch Road</Address1>
+<City>Bournemouth</City>
+<Region>Dorset</Region>
+<Country>England</Country>
+<Postal_Code>BH1 2EW</Postal_Code>
+<E-mail>Waldorf@pathfinders.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-334-449-0291</Phone>
+<Fax>44-334-449-2893</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>204</Customer_ID>
+<Customer_Credit_ID>204</Customer_Credit_ID>
+<Customer_Name>Wheel to Wheel</Customer_Name>
+<Contact_First_Name>Brent</Contact_First_Name>
+<Contact_Last_Name>Butterfield</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>5912.7</Last_Years_Sales>
+<Address1>199 Bisley Street</Address1>
+<City>Southampton</City>
+<Region>Hampshire</Region>
+<Country>England</Country>
+<Postal_Code>SO15 1AG</Postal_Code>
+<E-mail>Butterfield@rowdyrims.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-171-377-9766</Phone>
+<Fax>44-171-377-9321</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>205</Customer_ID>
+<Customer_Credit_ID>205</Customer_Credit_ID>
+<Customer_Name>McDonald Klein Sports</Customer_Name>
+<Contact_First_Name>Trent</Contact_First_Name>
+<Contact_Last_Name>McDonald</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3618</Last_Years_Sales>
+<Address1>40 Epping road</Address1>
+<Address2>Suite 245</Address2>
+<City>Bristol</City>
+<Region>Avon</Region>
+<Country>England</Country>
+<Postal_Code>BS1 3AD</Postal_Code>
+<E-mail>McDonald@greatbike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-341-211-0431</Phone>
+<Fax>44-341-211-0233</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>206</Customer_ID>
+<Customer_Credit_ID>206</Customer_Credit_ID>
+<Customer_Name>Tom&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Thomas</Contact_First_Name>
+<Contact_Last_Name>Dadwood</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>36330</Last_Years_Sales>
+<Address1>14 Kipling Avenue</Address1>
+<City>Nottingham</City>
+<Region>Nottinghamshire</Region>
+<Country>England</Country>
+<Postal_Code>NG1 5RH</Postal_Code>
+<E-mail>Dadwood@madmountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-377-573-0294</Phone>
+<Fax>44-377-920-1331</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>207</Customer_ID>
+<Customer_Credit_ID>207</Customer_Credit_ID>
+<Customer_Name>Hit the Dirt</Customer_Name>
+<Contact_First_Name>Samantha</Contact_First_Name>
+<Contact_Last_Name>Raintree</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>4637</Last_Years_Sales>
+<Address1>91 Bruton Road</Address1>
+<City>Cambridge</City>
+<Region>Cambridgeshire</Region>
+<Country>England</Country>
+<Postal_Code>CB2 3DT</Postal_Code>
+<E-mail>Raintree@offthemountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-334-530-0193</Phone>
+<Fax>44-334-530-0930</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>208</Customer_ID>
+<Customer_Credit_ID>208</Customer_Credit_ID>
+<Customer_Name>LifeCycle</Customer_Name>
+<Contact_First_Name>Derek</Contact_First_Name>
+<Contact_Last_Name>Young</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>6644.19</Last_Years_Sales>
+<Address1>59 Beacon Hill Road</Address1>
+<City>Leeds</City>
+<Region>West Yorkshire</Region>
+<Country>England</Country>
+<Postal_Code>LS1 6ET</Postal_Code>
+<E-mail>Young@fulcrum.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-131-321-8432</Phone>
+<Fax>44-131-321-8445</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>209</Customer_ID>
+<Customer_Credit_ID>209</Customer_Credit_ID>
+<Customer_Name>Westerly Sports</Customer_Name>
+<Contact_First_Name>Shelly</Contact_First_Name>
+<Contact_Last_Name>Cornwall</Contact_Last_Name>
+<Contact_Title>Miss</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>47</Last_Years_Sales>
+<Address1>3 Old Duke Circus</Address1>
+<Address2>Floor 11</Address2>
+<City>Birmingham</City>
+<Region>West Midlands</Region>
+<Country>England</Country>
+<Postal_Code>B2 4JQ</Postal_Code>
+<E-mail>Cornwall@spokes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-171-341-0763</Phone>
+<Fax>44-171-645-0765</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>210</Customer_ID>
+<Customer_Credit_ID>210</Customer_Credit_ID>
+<Customer_Name>Donview Bike Co.</Customer_Name>
+<Contact_First_Name>Russ</Contact_First_Name>
+<Contact_Last_Name>Clemmens</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>35</Last_Years_Sales>
+<Address1>41 South Gate</Address1>
+<Address2>St Matthews House</Address2>
+<City>Sunderland</City>
+<Region>Co Durham</Region>
+<Country>England</Country>
+<Postal_Code>SR6 8DB</Postal_Code>
+<E-mail>Clemmens@tothelimit.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-171-449-9201</Phone>
+<Fax>44-171-449-9204</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>211</Customer_ID>
+<Customer_Credit_ID>211</Customer_Credit_ID>
+<Customer_Name>Platinum Sports</Customer_Name>
+<Contact_First_Name>Timothy</Contact_First_Name>
+<Contact_Last_Name>Gilligan</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>10800</Last_Years_Sales>
+<Address1>31 West Colton Drive</Address1>
+<City>Edinburgh</City>
+<Region>Lothian</Region>
+<Country>Scotland</Country>
+<Postal_Code>EH2 2PB</Postal_Code>
+<E-mail>Gilligan@spokesfolks.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-131-330-6981</Phone>
+<Fax>44-131-330-5100</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>212</Customer_ID>
+<Customer_Credit_ID>212</Customer_Credit_ID>
+<Customer_Name>Dublin Cycle Centre</Customer_Name>
+<Contact_First_Name>Shane</Contact_First_Name>
+<Contact_Last_Name>O&apos;Tool</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2727.3</Last_Years_Sales>
+<Address1>6 South Moor Lane</Address1>
+<City>Dublin</City>
+<Region>Dublin</Region>
+<Country>Ireland</Country>
+<E-mail>O&apos;Tool@herculesmountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>353-1-7973-9201</Phone>
+<Fax>353-1-7973-9237</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>213</Customer_ID>
+<Customer_Credit_ID>213</Customer_Credit_ID>
+<Customer_Name>Top &apos;o&apos; the World Cycle</Customer_Name>
+<Contact_First_Name>Mike</Contact_First_Name>
+<Contact_Last_Name>O&apos;Sullivan</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8967.71</Last_Years_Sales>
+<Address1>156 Slaight Road</Address1>
+<Address2>Suite 102</Address2>
+<City>Belfast</City>
+<Region>County Antrim</Region>
+<Country>Northern Ireland</Country>
+<Postal_Code>BT2 7AP</Postal_Code>
+<E-mail>O&apos;Sullivan@pedals.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-1232-462002</Phone>
+<Fax>44-1232-422942</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>214</Customer_ID>
+<Customer_Credit_ID>214</Customer_Credit_ID>
+<Customer_Name>Bicycle Basics</Customer_Name>
+<Contact_First_Name>Drew</Contact_First_Name>
+<Contact_Last_Name>Broadwin</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>72000</Last_Years_Sales>
+<Address1>59 Old Stone Road</Address1>
+<City>Cardiff</City>
+<Region>South Glamorgan</Region>
+<Country>Wales</Country>
+<Postal_Code>CF1 2EQ</Postal_Code>
+<E-mail>Broadwin@roadrunners.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-1452-029-0292</Phone>
+<Fax>44-1452-029-0442</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>215</Customer_ID>
+<Customer_Credit_ID>215</Customer_Credit_ID>
+<Customer_Name>Great Outdoors</Customer_Name>
+<Contact_First_Name>Jackie</Contact_First_Name>
+<Contact_Last_Name>Ball</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>3024.85</Last_Years_Sales>
+<Address1>17 West Port Circle</Address1>
+<City>Manchester</City>
+<Region>Greater Manchester</Region>
+<Country>England</Country>
+<Postal_Code>M60 2DS</Postal_Code>
+<E-mail>Ball@blazingsaddles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-131-319-3600</Phone>
+<Fax>44-131-319-3643</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>216</Customer_ID>
+<Customer_Credit_ID>216</Customer_Credit_ID>
+<Customer_Name>Exeter Cycle Source</Customer_Name>
+<Contact_First_Name>Sid</Contact_First_Name>
+<Contact_Last_Name>Moore</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1030.08</Last_Years_Sales>
+<Address1>55 Cornwall Drive</Address1>
+<City>Exeter</City>
+<Region>Devon</Region>
+<Country>England</Country>
+<Postal_Code>EX4 3SP</Postal_Code>
+<E-mail>Moore@extremecycling.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-181-866-0293</Phone>
+<Fax>44-181-866-2032</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>217</Customer_ID>
+<Customer_Credit_ID>217</Customer_Credit_ID>
+<Customer_Name>Picadilly Cycle</Customer_Name>
+<Contact_First_Name>Julian</Contact_First_Name>
+<Contact_Last_Name>Windsor</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5321.25</Last_Years_Sales>
+<Address1>29 West Chesterfield Avenue</Address1>
+<City>London</City>
+<Region>Greater London</Region>
+<Country>England</Country>
+<Postal_Code>SW19 4UE</Postal_Code>
+<E-mail>Windsor@corporatecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-171-531-0221</Phone>
+<Fax>44-171-531-0223</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>218</Customer_ID>
+<Customer_Credit_ID>218</Customer_Credit_ID>
+<Customer_Name>Life Cycle Centre</Customer_Name>
+<Contact_First_Name>Rod</Contact_First_Name>
+<Contact_Last_Name>Filmore</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>1 Featherstone Way</Address1>
+<Address2>Sunflower House</Address2>
+<City>Maidenhead</City>
+<Region>Berkshire</Region>
+<Country>England</Country>
+<Postal_Code>SL6 2PZ</Postal_Code>
+<E-mail>Filmore@crankcompenents.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>44-181-221-0328</Phone>
+<Fax>44-181-223-9320</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>219</Customer_ID>
+<Customer_Credit_ID>219</Customer_Credit_ID>
+<Customer_Name>Cycle Fever</Customer_Name>
+<Contact_First_Name>Jake</Contact_First_Name>
+<Contact_Last_Name>Cosgrove</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>6629.1</Last_Years_Sales>
+<Address1>2002 Bloor Street West</Address1>
+<Address2>Suite 102</Address2>
+<City>Toronto</City>
+<Region>ON</Region>
+<Country>Canada</Country>
+<Postal_Code>M6S 4X9</Postal_Code>
+<E-mail>Cosgrove@unicycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>416-766-5007</Phone>
+<Fax>416-761-5007</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>220</Customer_ID>
+<Customer_Credit_ID>220</Customer_Credit_ID>
+<Customer_Name>Wheels &apos;n&apos; Deals</Customer_Name>
+<Contact_First_Name>Sylvia</Contact_First_Name>
+<Contact_Last_Name>Canton</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>2850.85</Last_Years_Sales>
+<Address1>168 Creswell Drive</Address1>
+<City>Beaconsfield</City>
+<Region>PQ</Region>
+<Country>Canada</Country>
+<Postal_Code>H9W 1E7</Postal_Code>
+<E-mail>Canton@wheelsnstuff.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>514-697-0077</Phone>
+<Fax>514-695-9901</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>221</Customer_ID>
+<Customer_Credit_ID>221</Customer_Credit_ID>
+<Customer_Name>Halifax Cycle Centre</Customer_Name>
+<Contact_First_Name>Grant</Contact_First_Name>
+<Contact_Last_Name>Targell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1489.05</Last_Years_Sales>
+<Address1>1946 Herring Cove Road</Address1>
+<City>Halifax</City>
+<Region>NS</Region>
+<Country>Canada</Country>
+<Postal_Code>B3R 1V9</Postal_Code>
+<E-mail>Targell@changinggears.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>902-477-9666</Phone>
+<Fax>902-477-3201</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>222</Customer_ID>
+<Customer_Credit_ID>222</Customer_Credit_ID>
+<Customer_Name>Dag City Cycle</Customer_Name>
+<Contact_First_Name>Dag</Contact_First_Name>
+<Contact_Last_Name>Jozwell</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1276.74</Last_Years_Sales>
+<Address1>2975 Portage Street</Address1>
+<City>Winnipeg</City>
+<Region>MB</Region>
+<Country>Canada</Country>
+<Postal_Code>R3J 0N9</Postal_Code>
+<E-mail>Jozwell@blazingbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>204-949-6053</Phone>
+<Fax>204-948-0012</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>223</Customer_ID>
+<Customer_Credit_ID>223</Customer_Credit_ID>
+<Customer_Name>Don&apos;t Tread On Me</Customer_Name>
+<Contact_First_Name>Don</Contact_First_Name>
+<Contact_Last_Name>Julian</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5879.7</Last_Years_Sales>
+<Address1>20011 Slater Street</Address1>
+<City>Ottawa</City>
+<Region>ON</Region>
+<Country>Canada</Country>
+<Postal_Code>K1A 3W9</Postal_Code>
+<E-mail>Julian@bikesbrothers.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>613-235-6617</Phone>
+<Fax>613-230-9826</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>224</Customer_ID>
+<Customer_Credit_ID>224</Customer_Credit_ID>
+<Customer_Name>Min Dong Toy Store</Customer_Name>
+<Contact_First_Name>Fang</Contact_First_Name>
+<Contact_Last_Name>Zhou</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>6467.35</Last_Years_Sales>
+<Address1>411 Yanan Rd, #301</Address1>
+<City>Shanghai</City>
+<Region>Shanghai</Region>
+<Country>China</Country>
+<Postal_Code>200239</Postal_Code>
+<E-mail>Zhou@rockyroadsters.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>86-10-5353-7878</Phone>
+<Fax>862-10-5353-7879</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>225</Customer_ID>
+<Customer_Credit_ID>225</Customer_Credit_ID>
+<Customer_Name>JinJing Sports</Customer_Name>
+<Contact_First_Name>Fan</Contact_First_Name>
+<Contact_Last_Name>Zhang</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>13434.9</Last_Years_Sales>
+<Address1>585 Jian She Road</Address1>
+<City>Tianjin</City>
+<Region>Tianjin</Region>
+<Country>China</Country>
+<Postal_Code>356001</Postal_Code>
+<E-mail>Zhang@onetrachmind.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>86-10-9536-0909</Phone>
+<Fax>86-10-9536-0910</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>226</Customer_ID>
+<Customer_Credit_ID>226</Customer_Credit_ID>
+<Customer_Name>Yue Xiu Bicycles</Customer_Name>
+<Contact_First_Name>XinQiang</Contact_First_Name>
+<Contact_Last_Name>Wang</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>17484.75</Last_Years_Sales>
+<Address1>777 Jian Guo Avenue</Address1>
+<City>Guangzhou</City>
+<Region>Guangdong</Region>
+<Country>China</Country>
+<Postal_Code>370999</Postal_Code>
+<E-mail>Wang@hangintwo.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>86-21-3492-3294</Phone>
+<Fax>86-21-3492-3296</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>227</Customer_ID>
+<Customer_Credit_ID>227</Customer_Credit_ID>
+<Customer_Name>Hao Nannu Outdoors</Customer_Name>
+<Contact_First_Name>Dong Sheng</Contact_First_Name>
+<Contact_Last_Name>Yu</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>888 Chuan Qian Road</Address1>
+<City>Chengdu</City>
+<Region>Sichuan</Region>
+<Country>China</Country>
+<Postal_Code>250895</Postal_Code>
+<E-mail>Yu@familybiking.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>86-21-8392-3283</Phone>
+<Fax>86-21-8392-3232</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>228</Customer_ID>
+<Customer_Credit_ID>228</Customer_Credit_ID>
+<Customer_Name>Globe Bike</Customer_Name>
+<Contact_First_Name>David</Contact_First_Name>
+<Contact_Last_Name>Chan</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>10245.55</Last_Years_Sales>
+<Address1>383-407 Hennessy Road</Address1>
+<Address2>Wan Chai</Address2>
+<City>Hong Kong SAR</City>
+<Region>Hong Kong SAR</Region>
+<Country>China</Country>
+<Postal_Code>573222</Postal_Code>
+<E-mail>Chan@worldoftires.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>852-4667-9393</Phone>
+<Fax>852-4667-9393</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>229</Customer_ID>
+<Customer_Credit_ID>229</Customer_Credit_ID>
+<Customer_Name>Newpeople Biking Ltd.</Customer_Name>
+<Contact_First_Name>Edward</Contact_First_Name>
+<Contact_Last_Name>Yan</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>7981.41</Last_Years_Sales>
+<Address1>600 Jordan Road</Address1>
+<Address2>Kowloon</Address2>
+<City>Hong Kong SAR</City>
+<Region>Hong Kong SAR</Region>
+<Country>China</Country>
+<Postal_Code>863356</Postal_Code>
+<E-mail>Yan@olympicbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>852-3778-2929</Phone>
+<Fax>852-3778-2927</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>230</Customer_ID>
+<Customer_Credit_ID>230</Customer_Credit_ID>
+<Customer_Name>C&amp;C Sports People</Customer_Name>
+<Contact_First_Name>Mark</Contact_First_Name>
+<Contact_Last_Name>Wang</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2546.12</Last_Years_Sales>
+<Address1>Floor 3, 100 East Point Road</Address1>
+<Address2>Causeway Bay</Address2>
+<City>Hong Kong SAR</City>
+<Region>Hong Kong SAR</Region>
+<Country>China</Country>
+<Postal_Code>357677</Postal_Code>
+<E-mail>Wang@bikestrikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>852-3838-1919</Phone>
+<Fax>852-3838-1929</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>231</Customer_ID>
+<Customer_Credit_ID>231</Customer_Credit_ID>
+<Customer_Name>AIC Childrens</Customer_Name>
+<Contact_First_Name>Ng Chun</Contact_First_Name>
+<Contact_Last_Name>Yuen</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5879.7</Last_Years_Sales>
+<Address1>303-404 Pricecess Building</Address1>
+<Address2>Central</Address2>
+<City>Hong Kong SAR</City>
+<Region>Hong Kong SAR</Region>
+<Country>China</Country>
+<Postal_Code>439433</Postal_Code>
+<E-mail>Yuen@tearsforgears.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>852-3998-2044</Phone>
+<Fax>852-3832-1071</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>232</Customer_ID>
+<Customer_Credit_ID>232</Customer_Credit_ID>
+<Customer_Name>Fast Mover Pte Ltd</Customer_Name>
+<Contact_First_Name>Tan Boon</Contact_First_Name>
+<Contact_Last_Name>Cheng</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>4751</Last_Years_Sales>
+<Address1>108 International Business Park</Address1>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>609929</Postal_Code>
+<E-mail>Cheng@caledonia.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-533-0932</Phone>
+<Fax>65-533-4395</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>233</Customer_ID>
+<Customer_Credit_ID>233</Customer_Credit_ID>
+<Customer_Name>United Bikers</Customer_Name>
+<Contact_First_Name>Mary</Contact_First_Name>
+<Contact_Last_Name>Lim</Contact_Last_Name>
+<Contact_Title>Mrs.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>26489.3</Last_Years_Sales>
+<Address1>338 Robinson Road</Address1>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>368911</Postal_Code>
+<E-mail>Lim@bikingbums.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-775-4677</Phone>
+<Fax>65-775-0372</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>234</Customer_ID>
+<Customer_Credit_ID>234</Customer_Credit_ID>
+<Customer_Name>JR Biking Limited</Customer_Name>
+<Contact_First_Name>Lee Kah</Contact_First_Name>
+<Contact_Last_Name>Seng</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1019.4</Last_Years_Sales>
+<Address1>1800 Exeter Road</Address1>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>239732</Postal_Code>
+<E-mail>Seng@firstgear.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-209-3341</Phone>
+<Fax>65-209-3001</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>235</Customer_ID>
+<Customer_Credit_ID>235</Customer_Credit_ID>
+<Customer_Name>Heuristic Beach Pte Ltd</Customer_Name>
+<Contact_First_Name>Abdul Rahman Bin</Contact_First_Name>
+<Contact_Last_Name>Fandi</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1823.65</Last_Years_Sales>
+<Address1>2048 Alexandra Road</Address1>
+<Address2>Suite 100</Address2>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>119954</Postal_Code>
+<E-mail>Fandi@againstthewind.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-227-3432</Phone>
+<Fax>65-227-4677</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>236</Customer_ID>
+<Customer_Credit_ID>236</Customer_Credit_ID>
+<Customer_Name>Ministry of Sports</Customer_Name>
+<Contact_First_Name>Ben</Contact_First_Name>
+<Contact_Last_Name>Govindansamy</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>16 Maxwell Road</Address1>
+<City>Singapore</City>
+<Region>Singapore</Region>
+<Country>Singapore</Country>
+<Postal_Code>169111</Postal_Code>
+<E-mail>Govindansamy@citycyclists.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>65-455-2311</Phone>
+<Fax>65-455-0038</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>237</Customer_ID>
+<Customer_Credit_ID>237</Customer_Credit_ID>
+<Customer_Name>Salvado Bike Store</Customer_Name>
+<Contact_First_Name>Adriano</Contact_First_Name>
+<Contact_Last_Name>Pinto</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>5879.7</Last_Years_Sales>
+<Address1>Eurico Lara 423/524</Address1>
+<City>Rio Grande</City>
+<Region>Rio Grande do Sul</Region>
+<Country>Brazil</Country>
+<Postal_Code>90880-390</Postal_Code>
+<E-mail>Pinto@goingincircles.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-61-2934-3849</Phone>
+<Fax>55-61-2934-1119</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>238</Customer_ID>
+<Customer_Credit_ID>238</Customer_Credit_ID>
+<Customer_Name>Brasilia Outdoors</Customer_Name>
+<Contact_First_Name>Americo</Contact_First_Name>
+<Contact_Last_Name>Machado</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>13466.5</Last_Years_Sales>
+<Address1>Teixeira Soares, 895</Address1>
+<Address2>Santa Tereza</Address2>
+<City>Minas Gerais</City>
+<Region>Belo Horizonte</Region>
+<Country>Brazil</Country>
+<Postal_Code>31015-040</Postal_Code>
+<E-mail>Machado@cyclistslife.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-85-1032-1093</Phone>
+<Fax>55-85-1032-2323</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>239</Customer_ID>
+<Customer_Credit_ID>239</Customer_Credit_ID>
+<Customer_Name>Rio De Janeiro Bikers</Customer_Name>
+<Contact_First_Name>André</Contact_First_Name>
+<Contact_Last_Name>Pedro</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>133551.3</Last_Years_Sales>
+<Address1>Av. Rio Branco, 95 / 7º andar</Address1>
+<City>Rio de Janeiro</City>
+<Region>Rio de Janeiro</Region>
+<Country>Brazil</Country>
+<Postal_Code>20093-900</Postal_Code>
+<E-mail>Pedro@discountbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-11-4929-4929</Phone>
+<Fax>55-11-4929-4343</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>240</Customer_ID>
+<Customer_Credit_ID>240</Customer_Credit_ID>
+<Customer_Name>Saveiros SA</Customer_Name>
+<Contact_First_Name>André</Contact_First_Name>
+<Contact_Last_Name>da Silva</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5879.7</Last_Years_Sales>
+<Address1>Teixeira Soares, 2223</Address1>
+<City>São Paulo</City>
+<Region>São Paulo</Region>
+<Country>Brazil</Country>
+<Postal_Code>20093-400</Postal_Code>
+<E-mail>da Silva@canadianbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-85-2392-0193</Phone>
+<Fax>55-85-2392-3323</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>241</Customer_ID>
+<Customer_Credit_ID>241</Customer_Credit_ID>
+<Customer_Name>Outdoors Ltda</Customer_Name>
+<Contact_First_Name>André</Contact_First_Name>
+<Contact_Last_Name>Fontes</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2378.35</Last_Years_Sales>
+<Address1>Rua Silex, 165</Address1>
+<City>São Paulo</City>
+<Region>São Paulo</Region>
+<Country>Brazil</Country>
+<Postal_Code>04082-001</Postal_Code>
+<E-mail>Fontes@bobsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>55-61-2929-3723</Phone>
+<Fax>55-61-2929-3223</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>242</Customer_ID>
+<Customer_Credit_ID>242</Customer_Credit_ID>
+<Customer_Name>Hamburg Räder</Customer_Name>
+<Contact_First_Name>Arne</Contact_First_Name>
+<Contact_Last_Name>Schmeth</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1787.5</Last_Years_Sales>
+<Address1>Iltisstrasse 24</Address1>
+<City>Essen</City>
+<Region>Nordrhein-Westfalen</Region>
+<Country>Germany</Country>
+<Postal_Code>D-45001</Postal_Code>
+<E-mail>Schmeth@mikesbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-4042-2333-71</Phone>
+<Fax>49-4042-2333-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>243</Customer_ID>
+<Customer_Credit_ID>243</Customer_Credit_ID>
+<Customer_Name>Leipzig Freiheit</Customer_Name>
+<Contact_First_Name>Folkert</Contact_First_Name>
+<Contact_Last_Name>Heinz</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>7829.29</Last_Years_Sales>
+<Address1>Bahnstrasse 342-46</Address1>
+<City>Berlin</City>
+<Region>Berlin</Region>
+<Country>Germany</Country>
+<Postal_Code>D-10044</Postal_Code>
+<E-mail>Heinz@twowheelin.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-2024-8855-08</Phone>
+<Fax>49-2024-8855-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>244</Customer_ID>
+<Customer_Credit_ID>244</Customer_Credit_ID>
+<Customer_Name>Super Bike</Customer_Name>
+<Contact_First_Name>Frank</Contact_First_Name>
+<Contact_Last_Name>Kroger</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>1072.8</Last_Years_Sales>
+<Address1>Geisbergstr. 311</Address1>
+<City>Hamburg</City>
+<Region>Hamburg</Region>
+<Country>Germany</Country>
+<Postal_Code>D-22121</Postal_Code>
+<E-mail>Kroger@bombaybicycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-6196-9559-22</Phone>
+<Fax>49-6196-9559-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>245</Customer_ID>
+<Customer_Credit_ID>245</Customer_Credit_ID>
+<Customer_Name>Berlin Biking GmBH.</Customer_Name>
+<Contact_First_Name>Gunter</Contact_First_Name>
+<Contact_Last_Name>Schatz</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2989.35</Last_Years_Sales>
+<Address1>D-80042 Weissenfeld</Address1>
+<City>München</City>
+<Region>Bayern</Region>
+<Country>Germany</Country>
+<Postal_Code>D-80042</Postal_Code>
+<E-mail>Schatz@bennythespokes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-3220-0485-51</Phone>
+<Fax>49-3220-0485-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>246</Customer_ID>
+<Customer_Credit_ID>246</Customer_Credit_ID>
+<Customer_Name>Dortmont Rad Kaufhaus</Customer_Name>
+<Contact_First_Name>Holger</Contact_First_Name>
+<Contact_Last_Name>Warnecke</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>59468.94</Last_Years_Sales>
+<Address1>CMR 4434</Address1>
+<City>Düsseldorf</City>
+<Region>Nordrhein-Westfalen</Region>
+<Country>Germany</Country>
+<Postal_Code>D-40029</Postal_Code>
+<E-mail>Warnecke@bikesbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-3944-0432-57</Phone>
+<Fax>49-3944-0432-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>247</Customer_ID>
+<Customer_Credit_ID>247</Customer_Credit_ID>
+<Customer_Name>Offroad Bike Verleih</Customer_Name>
+<Contact_First_Name>Juergen</Contact_First_Name>
+<Contact_Last_Name>Rudolf</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1623.15</Last_Years_Sales>
+<Address1>Koningswinterer Strasse 800</Address1>
+<City>Berlin</City>
+<Region>Berlin</Region>
+<Country>Germany</Country>
+<Postal_Code>D-14059</Postal_Code>
+<E-mail>Rudolf@roughterrain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-3022-0486-14</Phone>
+<Fax>49-3022-0486-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>248</Customer_ID>
+<Customer_Credit_ID>248</Customer_Credit_ID>
+<Customer_Name>Berg auf Trails GmBH.</Customer_Name>
+<Contact_First_Name>Peter</Contact_First_Name>
+<Contact_Last_Name>Schmit</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>2939.29</Last_Years_Sales>
+<Address1>CMR 4490</Address1>
+<City>Düsseldorf</City>
+<Region>Nordrhein-Westfalen</Region>
+<Country>Germany</Country>
+<Postal_Code>D-40608</Postal_Code>
+<E-mail>Schmit@cyclopath.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>49-6400-0443-23</Phone>
+<Fax>49-6400-0443-10</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>249</Customer_ID>
+<Customer_Credit_ID>249</Customer_Credit_ID>
+<Customer_Name>Milano Bike Store</Customer_Name>
+<Contact_First_Name>Angelo</Contact_First_Name>
+<Contact_Last_Name>Nucchi</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>6755.8</Last_Years_Sales>
+<Address1>Via Anagnina 483</Address1>
+<City>Milan</City>
+<Region>Lombardia</Region>
+<Country>Italy</Country>
+<Postal_Code>42898</Postal_Code>
+<E-mail>Nucchi@tandemcycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>39-10-2849-1038</Phone>
+<Fax>39-10-2849-1000</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>250</Customer_ID>
+<Customer_Credit_ID>250</Customer_Credit_ID>
+<Customer_Name>Brescia Mountainers</Customer_Name>
+<Contact_First_Name>David</Contact_First_Name>
+<Contact_Last_Name>Giovanni</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>181444.66</Last_Years_Sales>
+<Address1>Via Angelo Maj, 22</Address1>
+<City>Rome</City>
+<Region>Lazio</Region>
+<Country>Italy</Country>
+<Postal_Code>42210</Postal_Code>
+<E-mail>Giovanni@ontheedge.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>39-55-9202-9592</Phone>
+<Fax>39-55-9202-9534</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>251</Customer_ID>
+<Customer_Credit_ID>251</Customer_Credit_ID>
+<Customer_Name>Nogoya Paths</Customer_Name>
+<Contact_First_Name>Hatsuko</Contact_First_Name>
+<Contact_Last_Name>Kumasaka</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>C.ITOH Bldg. 12-1</Address1>
+<Address2>Minato-Ku</Address2>
+<City>Hiroshima</City>
+<Region>Hiroshima Ken</Region>
+<Country>Japan</Country>
+<Postal_Code>106-4553</Postal_Code>
+<E-mail>Kumasaka@tek.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>81-1-3321-3336</Phone>
+<Fax>81-1-3321-0192</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>252</Customer_ID>
+<Customer_Credit_ID>252</Customer_Credit_ID>
+<Customer_Name>Yokohama Biking Fans</Customer_Name>
+<Contact_First_Name>Miyako</Contact_First_Name>
+<Contact_Last_Name>Katayama</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2003.1</Last_Years_Sales>
+<Address1>Yokosuka Naval Base-Building 1955 Room 8</Address1>
+<City>Kobe</City>
+<Region>Hyogo Ken</Region>
+<Country>Japan</Country>
+<Postal_Code>124-2293</Postal_Code>
+<E-mail>Katayama@bikingheaven.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>81-1-3022-0349</Phone>
+<Fax>81-1-3022-2100</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>253</Customer_ID>
+<Customer_Credit_ID>253</Customer_Credit_ID>
+<Customer_Name>Bendai Mountain Bikers</Customer_Name>
+<Contact_First_Name>Tomoaki</Contact_First_Name>
+<Contact_Last_Name>Tanahashi</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>14076.8</Last_Years_Sales>
+<Address1>A.ITOH Bldg. 15-3</Address1>
+<Address2>Minato-Ku</Address2>
+<City>Tokyo</City>
+<Region>Tokyo To</Region>
+<Country>Japan</Country>
+<Postal_Code>232-9333</Postal_Code>
+<E-mail>Tanahashi@bikerspath.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>81-2-6676-0746</Phone>
+<Fax>81-2-6676-4302</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>254</Customer_ID>
+<Customer_Credit_ID>254</Customer_Credit_ID>
+<Customer_Name>Totory Ken Cyclists</Customer_Name>
+<Contact_First_Name>Yoshio</Contact_First_Name>
+<Contact_Last_Name>Shimoyama</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>5913.6</Last_Years_Sales>
+<Address1>Bell Ace Building 8F</Address1>
+<City>Yokohama</City>
+<Region>Kanagawa Ken</Region>
+<Country>Japan</Country>
+<Postal_Code>112-3293</Postal_Code>
+<E-mail>Shimoyama@bikesrus.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>81-2-2221-3606</Phone>
+<Fax>81-2-2221-0771</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>255</Customer_ID>
+<Customer_Credit_ID>255</Customer_Credit_ID>
+<Customer_Name>Tiempo Libre Monterrey</Customer_Name>
+<Contact_First_Name>Jose</Contact_First_Name>
+<Contact_Last_Name>Garcia</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>8819.55</Last_Years_Sales>
+<Address1>Thiers 3251-34</Address1>
+<City>Acapulco</City>
+<Region>Guerrero</Region>
+<Country>Mexico</Country>
+<Postal_Code>34323</Postal_Code>
+<E-mail>Garcia@bikeshopmars.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-5-553-0933</Phone>
+<Fax>52-5-553-0934</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>256</Customer_ID>
+<Customer_Credit_ID>256</Customer_Credit_ID>
+<Customer_Name>Tiempo Libre Acapulco</Customer_Name>
+<Contact_First_Name>Manuel</Contact_First_Name>
+<Contact_Last_Name>Hernandez</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>9595.7</Last_Years_Sales>
+<Address1>Apaseo El Alto 11, Col Valle del Tepeyac</Address1>
+<City>Puerto Vallarta</City>
+<Region>Jalisco</Region>
+<Country>Mexico</Country>
+<Postal_Code>04929</Postal_Code>
+<E-mail>Hernandez@feelgreat.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-5-300-0113</Phone>
+<Fax>52-5-300-0134</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>257</Customer_ID>
+<Customer_Credit_ID>257</Customer_Credit_ID>
+<Customer_Name>Bicicletas  de Montaña Cancun</Customer_Name>
+<Contact_First_Name>Ana Maria</Contact_First_Name>
+<Contact_Last_Name>Fernandez</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1551.18</Last_Years_Sales>
+<Address1>Puebla # 903 Primer Piso</Address1>
+<City>Cancun</City>
+<Region>Quintana Roo</Region>
+<Country>Mexico</Country>
+<Postal_Code>02994</Postal_Code>
+<E-mail>Fernandez@bikefest.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-2-255-8965</Phone>
+<Fax>52-2-255-9403</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>258</Customer_ID>
+<Customer_Credit_ID>258</Customer_Credit_ID>
+<Customer_Name>Guadalajara en ruedas</Customer_Name>
+<Contact_First_Name>Laura</Contact_First_Name>
+<Contact_Last_Name>Torres</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>83664.8</Last_Years_Sales>
+<Address1>Hernandez y Hernandez No.699</Address1>
+<City>Mazatlan</City>
+<Region>Sinaloa</Region>
+<Country>Mexico</Country>
+<Postal_Code>92041</Postal_Code>
+<E-mail>Torres@bikinghiking.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-1-357-9443</Phone>
+<Fax>52-1-357-9433</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>259</Customer_ID>
+<Customer_Credit_ID>259</Customer_Credit_ID>
+<Customer_Name>Bicycles Alex</Customer_Name>
+<Contact_First_Name>Alex</Contact_First_Name>
+<Contact_Last_Name>Alvarez</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>62627.65</Last_Years_Sales>
+<Address1>Rufino Tamayo 395</Address1>
+<City>Ciudad de Mexico</City>
+<Region>Distrito Federal</Region>
+<Country>Mexico</Country>
+<Postal_Code>03853</Postal_Code>
+<E-mail>Alvarez@bicycleraces.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>52-5-207-1010</Phone>
+<Fax>52-5-207-1011</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>260</Customer_ID>
+<Customer_Credit_ID>260</Customer_Credit_ID>
+<Customer_Name>New Trails</Customer_Name>
+<Contact_First_Name>George</Contact_First_Name>
+<Contact_Last_Name>Robins</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>1716.2</Last_Years_Sales>
+<Address1>181 Wellesley Street</Address1>
+<City>Christchurch</City>
+<Region>Canterbury</Region>
+<Country>New Zealand</Country>
+<E-mail>Robins@fredsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-3-4920-2044</Phone>
+<Fax>64-3-4920-3421</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>261</Customer_ID>
+<Customer_Credit_ID>261</Customer_Credit_ID>
+<Customer_Name>Beach Trails and Wheels</Customer_Name>
+<Contact_First_Name>Alastair</Contact_First_Name>
+<Contact_Last_Name>Jackson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>2944</Last_Years_Sales>
+<Address1>374 Great Road</Address1>
+<City>Hamilton</City>
+<Region>Waikato</Region>
+<Country>New Zealand</Country>
+<E-mail>Jackson@philsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-2-9112-2031</Phone>
+<Fax>64-2-9112-2033</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>262</Customer_ID>
+<Customer_Credit_ID>262</Customer_Credit_ID>
+<Customer_Name>Forested Hills</Customer_Name>
+<Contact_First_Name>Gary</Contact_First_Name>
+<Contact_Last_Name>Birch</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>1067.3</Last_Years_Sales>
+<Address1>4 Bond St.</Address1>
+<City>Wellington</City>
+<Region>Wellington</Region>
+<Country>New Zealand</Country>
+<E-mail>Birch@colinsbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-1-4044-2904</Phone>
+<Fax>64-1-4044-2934</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>263</Customer_ID>
+<Customer_Credit_ID>263</Customer_Credit_ID>
+<Customer_Name>Bill&apos;s Bikes</Customer_Name>
+<Contact_First_Name>Bill</Contact_First_Name>
+<Contact_Last_Name>Anderson</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>2459.4</Last_Years_Sales>
+<Address1>8035 Owl Road</Address1>
+<City>New Plymouth</City>
+<Region>Taranaki</Region>
+<Country>New Zealand</Country>
+<E-mail>Anderson@barrysbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-9-0014-4041</Phone>
+<Fax>64-9-0014-2334</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>264</Customer_ID>
+<Customer_Credit_ID>264</Customer_Credit_ID>
+<Customer_Name>Lisbon Cyclists</Customer_Name>
+<Contact_First_Name>Jorge</Contact_First_Name>
+<Contact_Last_Name>Faustino</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>329.85</Last_Years_Sales>
+<Address1>Av. Artur Soares, 828 - 1700</Address1>
+<City>Lisbon</City>
+<Region>Lisbon</Region>
+<Country>Portugal</Country>
+<Postal_Code>1700</Postal_Code>
+<E-mail>Faustino@tonysbikes.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>351-1-49-09-441</Phone>
+<Fax>351-1-49-09-850</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>265</Customer_ID>
+<Customer_Credit_ID>265</Customer_Credit_ID>
+<Customer_Name>Evora Family Sports</Customer_Name>
+<Contact_First_Name>André</Contact_First_Name>
+<Contact_Last_Name>Palacio</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>3638.01</Last_Years_Sales>
+<Address1>R. D. Estefƒnia, 12 - 2000 Lisb</Address1>
+<City>Lisbon</City>
+<Region>Lisbon</Region>
+<Country>Portugal</Country>
+<Postal_Code>1900</Postal_Code>
+<E-mail>Palacio@ridedownamountain.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>351-41-43-46-902</Phone>
+<Fax>351-41-43-46-990</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>266</Customer_ID>
+<Customer_Credit_ID>266</Customer_Credit_ID>
+<Customer_Name>Souzel Bike Rentals</Customer_Name>
+<Contact_First_Name>Adriano</Contact_First_Name>
+<Contact_Last_Name>Malva</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Agent</Contact_Position>
+<Last_Years_Sales>1472.27</Last_Years_Sales>
+<Address1>Polo Tecnologico Lote 39</Address1>
+<City>Lisbon</City>
+<Region>Lisbon</Region>
+<Country>Portugal</Country>
+<Postal_Code>1600-480</Postal_Code>
+<E-mail>Malva@makingtracks.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>351-44-09-23-677</Phone>
+<Fax>351-44-09-23-690</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>267</Customer_ID>
+<Customer_Credit_ID>267</Customer_Credit_ID>
+<Customer_Name>Tom&apos;s Place for Bikes</Customer_Name>
+<Contact_First_Name>Jimmy</Contact_First_Name>
+<Contact_Last_Name>Hatch</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Representative</Contact_Position>
+<Last_Years_Sales>36400.67</Last_Years_Sales>
+<Address1>545 Peachtree Road</Address1>
+<City>Johannesburg</City>
+<Region>Gauteng (PWV)</Region>
+<Country>South Africa</Country>
+<Postal_Code>2385</Postal_Code>
+<E-mail>Hatch@tiendadp.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>27-15-923-0300</Phone>
+<Fax>27-15-923-0301</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>268</Customer_ID>
+<Customer_Credit_ID>268</Customer_Credit_ID>
+<Customer_Name>Coastal Line Bikes</Customer_Name>
+<Contact_First_Name>Caron</Contact_First_Name>
+<Contact_Last_Name>Ryans</Contact_Last_Name>
+<Contact_Title>Ms.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>1130.4</Last_Years_Sales>
+<Address1>22th Flr  Safren House</Address1>
+<City>Johannesburg</City>
+<Region>Gauteng (PWV)</Region>
+<Country>South Africa</Country>
+<Postal_Code>3001</Postal_Code>
+<E-mail>Ryans@hanoibike.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>27-11-294-0001</Phone>
+<Fax>27-11-294-4453</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>269</Customer_ID>
+<Customer_Credit_ID>269</Customer_Credit_ID>
+<Customer_Name>Hikers and Bikers</Customer_Name>
+<Contact_First_Name>Steven</Contact_First_Name>
+<Contact_Last_Name>Sharp</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Owner</Contact_Position>
+<Last_Years_Sales>8300.8</Last_Years_Sales>
+<Address1>1844 Beach Avenue</Address1>
+<City>Johannesburg</City>
+<Region>Gauteng (PWV)</Region>
+<Country>South Africa</Country>
+<Postal_Code>4201</Postal_Code>
+<E-mail>Sharp@bicyclebasics.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>27-13-940-0302</Phone>
+<Fax>27-13-940-0309</Fax>
+</Customer_Query>
+<Customer_Query>
+<Customer_ID>270</Customer_ID>
+<Customer_Credit_ID>270</Customer_Credit_ID>
+<Customer_Name>Mountain View Sport</Customer_Name>
+<Contact_First_Name>Fran</Contact_First_Name>
+<Contact_Last_Name>Durant</Contact_Last_Name>
+<Contact_Title>Mr.</Contact_Title>
+<Contact_Position>Sales Manager</Contact_Position>
+<Last_Years_Sales>65231.7</Last_Years_Sales>
+<Address1>1443 Main Street</Address1>
+<Address2>Suite 990</Address2>
+<City>Auckland</City>
+<Region>Auckland</Region>
+<Country>New Zealand</Country>
+<E-mail>Durant@hararecycle.com</E-mail>
+<Web_Site>http://www.crystaldecisions.com</Web_Site>
+<Phone>64-9-2939-2995</Phone>
+<Fax>64-9-2939-2934</Fax>
+</Customer_Query>
+</dataroot>
