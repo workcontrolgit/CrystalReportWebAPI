@@ -17,47 +17,65 @@ namespace CrystalReportWebAPI.Controllers
     public class ReportsController : ApiController
     {
         [AllowAnonymous]
-        [Route("Position")]
+        [Route("Financial/VarianceAnalysisReport")]
         [HttpGet]
-        public HttpResponseMessage PositionListing()
+        public HttpResponseMessage FinancialVarianceAnalysisReport()
         {
-            var rd = new ReportDocument();
+            string reportPath = "~/Reports/Financial";
+            string reportFileName = "VarianceAnalysisReport.rpt";
+            string exportFilename = "VarianceAnalysisReport.pdf";
 
-            rd.Load(Path.Combine(System.Web.Hosting.HostingEnvironment.MapPath("~/Reports"), "PositionListing.rpt"));
-            MemoryStream ms = new MemoryStream();
-            using (var stream = rd.ExportToStream(ExportFormatType.PortableDocFormat))
-            {
-                stream.CopyTo(ms);
-            }
-
-            var result = new HttpResponseMessage(HttpStatusCode.OK)
-            {
-                Content = new ByteArrayContent(ms.ToArray())
-            };
-            result.Content.Headers.ContentDisposition =
-                new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment")
-                {
-                    FileName = "PositionListing.pdf"
-                };
-            result.Content.Headers.ContentType =
-                //new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
-                new System.Net.Http.Headers.MediaTypeHeaderValue("application/pdf");
+            HttpResponseMessage result = RenderReport(reportPath, reportFileName, exportFilename);
             return result;
         }
         [AllowAnonymous]
         [Route("Demonstration/ComparativeIncomeStatement")]
-        //[ActionName("GetComparativeIncomeStatement")]
-        [HttpPost]
-        public HttpResponseMessage DemonstrationComparativeIncomeStatement(LoginData login)
+        [HttpGet]
+        public HttpResponseMessage DemonstrationComparativeIncomeStatement()
         {
-            if (login != null) {
-                string username = login.Username;
-                string password = login.Password;
-            };
+            string reportPath = "~/Reports/Demonstration";
+            string reportFileName = "ComparativeIncomeStatement.rpt";
+            string exportFilename = "ComparativeIncomeStatement.pdf";
 
-                var rd = new ReportDocument();
+            HttpResponseMessage result = RenderReport(reportPath, reportFileName, exportFilename);
+            return result;
 
-            rd.Load(Path.Combine(System.Web.Hosting.HostingEnvironment.MapPath("~/Reports/Demonstration"), "ComparativeIncomeStatement.rpt"));
+        }
+
+        [AllowAnonymous]
+        [Route("VersatileandPrecise/Invoice")]
+        [HttpGet]
+        public HttpResponseMessage VersatileandPreciseInvoice()
+        {
+            string reportPath = "~/Reports/VersatileandPrecise";
+            string reportFileName = "Invoice.rpt";
+            string exportFilename = "Invoice.pdf";
+
+            HttpResponseMessage result = RenderReport(reportPath, reportFileName, exportFilename);
+            return result;
+
+        }
+
+        [AllowAnonymous]
+        [Route("VersatileandPrecise/FortifyFinancialAllinOneRetirementSavings")]
+        [HttpGet]
+        public HttpResponseMessage VersatileandPreciseFortifyFinancialAllinOneRetirementSavings()
+        {
+            string reportPath = "~/Reports/VersatileandPrecise";
+            string reportFileName = "FortifyFinancialAllinOneRetirementSavings.rpt";
+            string exportFilename = "FortifyFinancialAllinOneRetirementSavings.pdf";
+
+            HttpResponseMessage result = RenderReport(reportPath, reportFileName, exportFilename);
+            return result;
+
+        }
+
+
+        HttpResponseMessage RenderReport(string reportPath, string reportFileName, string exportFilename)
+        {
+            var rd = new ReportDocument();
+
+            rd.Load(Path.Combine(System.Web.Hosting.HostingEnvironment.MapPath(reportPath), reportFileName));
             MemoryStream ms = new MemoryStream();
             using (var stream = rd.ExportToStream(ExportFormatType.PortableDocFormat))
             {
@@ -71,12 +89,12 @@ namespace CrystalReportWebAPI.Controllers
             result.Content.Headers.ContentDisposition =
                 new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment")
                 {
-                    FileName = "PositionListing.pdf"
+                    FileName = "exportFilename"
                 };
             result.Content.Headers.ContentType =
-                //new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
                 new System.Net.Http.Headers.MediaTypeHeaderValue("application/pdf");
             return result;
         }
+
     }
 }
