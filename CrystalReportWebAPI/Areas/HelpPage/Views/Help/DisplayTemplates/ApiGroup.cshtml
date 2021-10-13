@@ -6,8 +6,8 @@
 @model IGrouping<HttpControllerDescriptor, ApiDescription>
 
 @{
-    var controllerDocumentation = ViewBag.DocumentationProvider != null ? 
-        ViewBag.DocumentationProvider.GetDocumentation(Model.Key) : 
+    var controllerDocumentation = ViewBag.DocumentationProvider != null ?
+        ViewBag.DocumentationProvider.GetDocumentation(Model.Key) :
         null;
 }
 

@@ -3,47 +3,47 @@
 <xsd:element name="dataroot">
 <xsd:complexType>
 <xsd:sequence>
-<xsd:element ref="Orders_Query" minOccurs="0" maxOccurs="unbounded"/>
+<xsd:element ref="Orders_Query" minOccurs="0" maxOccurs="unbounded" />
 </xsd:sequence>
-<xsd:attribute name="generated" type="xsd:dateTime"/>
+<xsd:attribute name="generated" type="xsd:dateTime" />
 </xsd:complexType>
 </xsd:element>
 <xsd:element name="Orders_Query">
 <xsd:annotation>
-<xsd:appinfo/>
+<xsd:appinfo />
 </xsd:annotation>
 <xsd:complexType>
 <xsd:sequence>
-<xsd:element name="Order_ID" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int"/>
-<xsd:element name="Order_Amount" minOccurs="0" od:jetType="currency" od:sqlSType="money" type="xsd:double"/>
-<xsd:element name="Customer_ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
-<xsd:element name="Employee_ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
-<xsd:element name="Order_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime"/>
-<xsd:element name="Required_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime"/>
-<xsd:element name="Ship_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime"/>
+<xsd:element name="Order_ID" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int" />
+<xsd:element name="Order_Amount" minOccurs="0" od:jetType="currency" od:sqlSType="money" type="xsd:double" />
+<xsd:element name="Customer_ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int" />
+<xsd:element name="Employee_ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int" />
+<xsd:element name="Order_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime" />
+<xsd:element name="Required_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime" />
+<xsd:element name="Ship_Date" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime" />
 <xsd:element name="Courier_Website" minOccurs="0" od:jetType="hyperlink" od:sqlSType="ntext" od:hyperlink="yes">
 <xsd:simpleType>
 <xsd:restriction base="xsd:string">
-<xsd:maxLength value="536870910"/>
+<xsd:maxLength value="536870910" />
 </xsd:restriction>
 </xsd:simpleType>
 </xsd:element>
 <xsd:element name="Ship_Via" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
 <xsd:simpleType>
 <xsd:restriction base="xsd:string">
-<xsd:maxLength value="20"/>
+<xsd:maxLength value="20" />
 </xsd:restriction>
 </xsd:simpleType>
 </xsd:element>
-<xsd:element name="Shipped" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Shipped" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean" />
 <xsd:element name="PO" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
 <xsd:simpleType>
 <xsd:restriction base="xsd:string">
-<xsd:maxLength value="50"/>
+<xsd:maxLength value="50" />
 </xsd:restriction>
 </xsd:simpleType>
 </xsd:element>
-<xsd:element name="Payment_Received" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Payment_Received" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean" />
 </xsd:sequence>
 </xsd:complexType>
 </xsd:element>
