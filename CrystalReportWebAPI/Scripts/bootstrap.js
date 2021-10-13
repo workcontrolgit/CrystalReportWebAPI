@@ -24,7 +24,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
 +function ($) {
   'use strict';
 
@@ -73,7 +72,6 @@ if (typeof jQuery === 'undefined') {
       }
     }
   })
-
 }(jQuery);
 
 /* ========================================================================
@@ -83,7 +81,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -136,7 +133,6 @@ if (typeof jQuery === 'undefined') {
       removeElement()
   }
 
-
   // ALERT PLUGIN DEFINITION
   // =======================
 
@@ -155,7 +151,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.alert             = Plugin
   $.fn.alert.Constructor = Alert
 
-
   // ALERT NO CONFLICT
   // =================
 
@@ -164,12 +159,10 @@ if (typeof jQuery === 'undefined') {
     return this
   }
 
-
   // ALERT DATA-API
   // ==============
 
   $(document).on('click.bs.alert.data-api', dismiss, Alert.prototype.close)
-
 }(jQuery);
 
 /* ========================================================================
@@ -179,7 +172,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -245,7 +237,6 @@ if (typeof jQuery === 'undefined') {
     }
   }
 
-
   // BUTTON PLUGIN DEFINITION
   // ========================
 
@@ -267,7 +258,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.button             = Plugin
   $.fn.button.Constructor = Button
 
-
   // BUTTON NO CONFLICT
   // ==================
 
@@ -275,7 +265,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.button = old
     return this
   }
-
 
   // BUTTON DATA-API
   // ===============
@@ -295,7 +284,6 @@ if (typeof jQuery === 'undefined') {
     .on('focus.bs.button.data-api blur.bs.button.data-api', '[data-toggle^="button"]', function (e) {
       $(e.target).closest('.btn').toggleClass('focus', /^focus(in)?$/.test(e.type))
     })
-
 }(jQuery);
 
 /* ========================================================================
@@ -305,7 +293,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -471,7 +458,6 @@ if (typeof jQuery === 'undefined') {
     return this
   }
 
-
   // CAROUSEL PLUGIN DEFINITION
   // ==========================
 
@@ -494,7 +480,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.carousel             = Plugin
   $.fn.carousel.Constructor = Carousel
 
-
   // CAROUSEL NO CONFLICT
   // ====================
 
@@ -502,7 +487,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.carousel = old
     return this
   }
-
 
   // CAROUSEL DATA-API
   // =================
@@ -542,7 +526,6 @@ if (typeof jQuery === 'undefined') {
       Plugin.call($carousel, $carousel.data())
     })
   })
-
 }(jQuery);
 
 /* ========================================================================
@@ -710,7 +693,6 @@ if (typeof jQuery === 'undefined') {
     return $(document).find(target)
   }
 
-
   // COLLAPSE PLUGIN DEFINITION
   // ==========================
 
@@ -731,7 +713,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.collapse             = Plugin
   $.fn.collapse.Constructor = Collapse
 
-
   // COLLAPSE NO CONFLICT
   // ====================
 
@@ -739,7 +720,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.collapse = old
     return this
   }
-
 
   // COLLAPSE DATA-API
   // =================
@@ -755,7 +735,6 @@ if (typeof jQuery === 'undefined') {
 
     Plugin.call($target, option)
   })
-
 }(jQuery);
 
 /* ========================================================================
@@ -765,7 +744,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -883,7 +861,6 @@ if (typeof jQuery === 'undefined') {
     $items.eq(index).trigger('focus')
   }
 
-
   // DROPDOWN PLUGIN DEFINITION
   // ==========================
 
@@ -902,7 +879,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.dropdown             = Plugin
   $.fn.dropdown.Constructor = Dropdown
 
-
   // DROPDOWN NO CONFLICT
   // ====================
 
@@ -910,7 +886,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.dropdown = old
     return this
   }
-
 
   // APPLY TO STANDARD DROPDOWN ELEMENTS
   // ===================================
@@ -921,7 +896,6 @@ if (typeof jQuery === 'undefined') {
     .on('click.bs.dropdown.data-api', toggle, Dropdown.prototype.toggle)
     .on('keydown.bs.dropdown.data-api', toggle, Dropdown.prototype.keydown)
     .on('keydown.bs.dropdown.data-api', '.dropdown-menu', Dropdown.prototype.keydown)
-
 }(jQuery);
 
 /* ========================================================================
@@ -931,7 +905,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -1142,7 +1115,6 @@ if (typeof jQuery === 'undefined') {
           .one('bsTransitionEnd', callback)
           .emulateTransitionEnd(Modal.BACKDROP_TRANSITION_DURATION) :
         callback()
-
     } else if (!this.isShown && this.$backdrop) {
       this.$backdrop.removeClass('in')
 
@@ -1155,7 +1127,6 @@ if (typeof jQuery === 'undefined') {
           .one('bsTransitionEnd', callbackRemove)
           .emulateTransitionEnd(Modal.BACKDROP_TRANSITION_DURATION) :
         callbackRemove()
-
     } else if (callback) {
       callback()
     }
@@ -1227,7 +1198,6 @@ if (typeof jQuery === 'undefined') {
     return scrollbarWidth
   }
 
-
   // MODAL PLUGIN DEFINITION
   // =======================
 
@@ -1248,7 +1218,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.modal = Plugin
   $.fn.modal.Constructor = Modal
 
-
   // MODAL NO CONFLICT
   // =================
 
@@ -1256,7 +1225,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.modal = old
     return this
   }
-
 
   // MODAL DATA-API
   // ==============
@@ -1280,7 +1248,6 @@ if (typeof jQuery === 'undefined') {
     })
     Plugin.call($target, option, this)
   })
-
 }(jQuery);
 
 /* ========================================================================
@@ -1818,7 +1785,6 @@ if (typeof jQuery === 'undefined') {
            placement == 'top'    ? { top: pos.top - actualHeight, left: pos.left + pos.width / 2 - actualWidth / 2 } :
            placement == 'left'   ? { top: pos.top + pos.height / 2 - actualHeight / 2, left: pos.left - actualWidth } :
         /* placement == 'right' */ { top: pos.top + pos.height / 2 - actualHeight / 2, left: pos.left + pos.width }
-
   }
 
   Tooltip.prototype.getViewportAdjustedDelta = function (placement, pos, actualWidth, actualHeight) {
@@ -1950,7 +1916,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.tooltip             = Plugin
   $.fn.tooltip.Constructor = Tooltip
 
-
   // TOOLTIP NO CONFLICT
   // ===================
 
@@ -1958,7 +1923,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.tooltip = old
     return this
   }
-
 }(jQuery);
 
 /* ========================================================================
@@ -1968,7 +1932,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -1990,7 +1953,6 @@ if (typeof jQuery === 'undefined') {
     content: '',
     template: '<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title"></h3><div class="popover-content"></div></div>'
   })
-
 
   // NOTE: POPOVER EXTENDS tooltip.js
   // ================================
@@ -2053,7 +2015,6 @@ if (typeof jQuery === 'undefined') {
     return (this.$arrow = this.$arrow || this.tip().find('.arrow'))
   }
 
-
   // POPOVER PLUGIN DEFINITION
   // =========================
 
@@ -2074,7 +2035,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.popover             = Plugin
   $.fn.popover.Constructor = Popover
 
-
   // POPOVER NO CONFLICT
   // ===================
 
@@ -2082,7 +2042,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.popover = old
     return this
   }
-
 }(jQuery);
 
 /* ========================================================================
@@ -2092,7 +2051,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -2216,7 +2174,6 @@ if (typeof jQuery === 'undefined') {
       .removeClass('active')
   }
 
-
   // SCROLLSPY PLUGIN DEFINITION
   // ===========================
 
@@ -2236,7 +2193,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.scrollspy             = Plugin
   $.fn.scrollspy.Constructor = ScrollSpy
 
-
   // SCROLLSPY NO CONFLICT
   // =====================
 
@@ -2244,7 +2200,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.scrollspy = old
     return this
   }
-
 
   // SCROLLSPY DATA-API
   // ==================
@@ -2255,7 +2210,6 @@ if (typeof jQuery === 'undefined') {
       Plugin.call($spy, $spy.data())
     })
   })
-
 }(jQuery);
 
 /* ========================================================================
@@ -2265,7 +2219,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -2371,7 +2324,6 @@ if (typeof jQuery === 'undefined') {
     $active.removeClass('in')
   }
 
-
   // TAB PLUGIN DEFINITION
   // =====================
 
@@ -2390,7 +2342,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.tab             = Plugin
   $.fn.tab.Constructor = Tab
 
-
   // TAB NO CONFLICT
   // ===============
 
@@ -2398,7 +2349,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.tab = old
     return this
   }
-
 
   // TAB DATA-API
   // ============
@@ -2411,7 +2361,6 @@ if (typeof jQuery === 'undefined') {
   $(document)
     .on('click.bs.tab.data-api', '[data-toggle="tab"]', clickHandler)
     .on('click.bs.tab.data-api', '[data-toggle="pill"]', clickHandler)
-
 }(jQuery);
 
 /* ========================================================================
@@ -2421,7 +2370,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
 
 +function ($) {
   'use strict';
@@ -2530,7 +2478,6 @@ if (typeof jQuery === 'undefined') {
     }
   }
 
-
   // AFFIX PLUGIN DEFINITION
   // =======================
 
@@ -2550,7 +2497,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.affix             = Plugin
   $.fn.affix.Constructor = Affix
 
-
   // AFFIX NO CONFLICT
   // =================
 
@@ -2558,7 +2504,6 @@ if (typeof jQuery === 'undefined') {
     $.fn.affix = old
     return this
   }
-
 
   // AFFIX DATA-API
   // ==============
@@ -2576,5 +2521,4 @@ if (typeof jQuery === 'undefined') {
       Plugin.call($spy, data)
     })
   })
-
 }(jQuery);
