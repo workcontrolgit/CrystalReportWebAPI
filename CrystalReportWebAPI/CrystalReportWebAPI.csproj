@@ -45,47 +45,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.Engine.13.0.4001\lib\net40\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.ClientDoc.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.ClientDoc.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.ClientDoc.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.CommLayer.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.CommonControls.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.CommonControls.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommonControls.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.CommonObjectModel.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.CommonObjectModel.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommonObjectModel.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.Controllers.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.Controllers.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.Controllers.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.CubeDefModel.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.CubeDefModel.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CubeDefModel.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.DataDefModel.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.DataDefModel.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.DataDefModel.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.DataSetConversion.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.DataSetConversion.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.DataSetConversion.dll</HintPath>
     </Reference>
     <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
       <HintPath>..\packages\CrystalReports.ReportAppServer.ObjectFactory.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.ObjectFactory.dll</HintPath>
@@ -97,23 +82,17 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
       <Private>True</Private>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.ReportDefModel.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportAppServer.XmlSerialize.13.0.4001\lib\net40\CrystalDecisions.ReportAppServer.XmlSerialize.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.XmlSerialize.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.ReportSource.13.0.4001\lib\net40\CrystalDecisions.ReportSource.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.ReportSource">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
-      <HintPath>..\packages\CrystalReports.Shared.13.0.4001\lib\net40\CrystalDecisions.Shared.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="CrystalDecisions.Shared">
+      <HintPath>..\..\..\..\..\program files (x86)\sap businessobjects\crystal reports for .net framework 4.0\common\sap businessobjects enterprise xi 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.1.2.10\lib\2.0\log4net.dll</HintPath>
@@ -613,6 +592,13 @@
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <Target Name="CopyRoslynFiles" AfterTargets="AfterBuild" Condition="!$(Disable_CopyWebApplication) And '$(OutDir)' != '$(OutputPath)'">
+    <ItemGroup>
+      <RoslynFiles Include="$(CscToolPath)\*" />
+    </ItemGroup>
+    <MakeDir Directories="$(WebProjectOutputDir)\bin\roslyn" />
+    <Copy SourceFiles="@(RoslynFiles)" DestinationFolder="$(WebProjectOutputDir)\bin\roslyn" SkipUnchangedFiles="true" Retries="$(CopyRetryCount)" RetryDelayMilliseconds="$(CopyRetryDelayMilliseconds)" />
   </Target>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
